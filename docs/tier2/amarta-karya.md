@@ -1,17 +1,7 @@
-[🏠 Beranda](../index.md) › [📋 Tier 2](index.md) › Amarta Karya
-
----
-
 # PT Amarta Karya (Persero)
 
-!!! abstract "Ringkasan Cepat"
-    | | |
-    |---|---|
-    | **Priority Score** | 9 |
-    | **Tier** | Tier 2 — Follow-up |
-    | **Danantara** | ✅ Ya (PP No.15/2025) |
-    | **Status LMS** | Ada platform LMS e-learning |
-    | **Pendekatan** | Take-over |
+!!! tip "Ringkasan Cepat"
+    **Priority Score:** 9 | **Tier:** Tier 2 — Follow-up | **Danantara:** ✅ Ya (PP No.15/2025) | **Status LMS:** Ada platform LMS e-learning | **Pendekatan:** Take-over
 
 ---
 
@@ -19,22 +9,23 @@
 PT Amarta Karya (Persero) adalah Badan Usaha Milik Negara (BUMN) yang bergerak di bidang jasa konstruksi dan rekayasa dengan ribuan karyawan. Perusahaan ini memiliki platform LMS e-learning corporate university untuk mendukung pengembangan kompetensi dan peningkatan kualitas sumber daya manusia. Fayolex harus prioritaskan ini sekarang karena PT Amarta Karya (Persero) sedang melakukan transformasi digital dan pengembangan SDM, serta memiliki signal anggaran untuk pengembangan kompetensi karyawan.
 
 ## Account Snapshot
-| Field | Nilai | Label | Sumber |
-|---|---|---|---|
-| Karyawan | Ribuan | [V] | Training data |
-| Sektor | Jasa konstruksi dan rekayasa | [V] | Training data |
-| Danantara | ✅ Ya (PP No.15/2025) | [V] | PP No.15/2025 |
-| LMS Status | Ada platform LMS e-learning | [V] | Training data |
-| Corporate University | Ada | [V] | Training data |
-| Direktur SDM / HC | Tidak diketahui | [U] | - |
-| Budget SDM Signal | Ada signal anggaran | [I] | Training data |
-| Website | Tidak diketahui | [U] | - |
+| Field | Data |
+|---|---|
+| **Karyawan** | Ribuan |
+| **Sektor** | Jasa konstruksi dan rekayasa |
+| **Danantara** | ✅ Ya (PP No.15/2025) |
+| **LMS Status** | Ada platform LMS e-learning |
+| **Corporate University** | Ada |
+| **Direktur SDM / HC** | Tidak diketahui |
+| **Budget SDM Signal** | Ada signal anggaran |
+| **Website** | Tidak diketahui |
 
 ## SDM & Learning Landscape
 PT Amarta Karya (Persero) memiliki program SDM yang bertujuan untuk meningkatkan kemampuan dan kompetensi sumber daya manusia. Perusahaan ini juga memiliki platform LMS e-learning corporate university untuk mendukung pengembangan kompetensi dan peningkatan kualitas sumber daya manusia.
 
 ## LMS Status & Opportunity
-**Status:** Take-over potential
+!!! success "LMS Status"
+    Take-over potential
 
 PT Amarta Karya (Persero) memiliki platform LMS e-learning yang dapat diintegrasikan dengan Fayolex untuk meningkatkan kemampuan dan kompetensi karyawan. Fayolex dapat membantu perusahaan ini meningkatkan kualitas sumber daya manusia dan meningkatkan kompetensi karyawan dan mitra kerja perusahaan.
 
@@ -49,11 +40,11 @@ Breakdown:
 - Transformasi aktif: +1 (sedang melakukan transformasi digital dan pengembangan SDM)
 
 ## Buying Group Hypothesis
-| Peran | Nama/Jabatan | Confidence |
+| Peran | Nama | Status |
 |---|---|---|
-| Economic Buyer | Direktur Utama | [V] |
-| Technical Evaluator | GM Learning/Pusdiklat | [V] |
-| Champion Internal | Manager L&D | [U] |
+| Economic Buyer | Direktur Utama |  |
+| Technical Evaluator | GM Learning/Pusdiklat |  |
+| Champion Internal | Manager L&D |  |
 
 ## Trigger Events
 1. Transformasi digital dan pengembangan SDM
@@ -61,9 +52,9 @@ Breakdown:
 3. Perubahan direktur atau jabatan lainnya
 
 ## Berita & Sinyal Terbaru
-* PT Amarta Karya (Persero) sedang melakukan transformasi digital dan pengembangan SDM (2024)
-* Perusahaan ini memiliki signal anggaran untuk pengembangan kompetensi karyawan (2024)
-* PT Amarta Karya (Persero) memiliki platform LMS e-learning corporate university (2024)
+- PT Amarta Karya (Persero) sedang melakukan transformasi digital dan pengembangan SDM (2024)
+- Perusahaan ini memiliki signal anggaran untuk pengembangan kompetensi karyawan (2024)
+- PT Amarta Karya (Persero) memiliki platform LMS e-learning corporate university (2024)
 
 ## Recommended Approach
 **Take-over**
@@ -80,10 +71,10 @@ Pilot suggestion: Mengintegrasikan Fayolex dengan platform LMS e-learning corpor
 5. Apa rencana perusahaan ini untuk meningkatkan kualitas sumber daya manusia di masa depan?
 
 ## Sumber
-* Training data
-* PP No.15/2025
-* Berita dan sinyal terbaru dari PT Amarta Karya (Persero)
+- Training data
+- PP No.15/2025
+- Berita dan sinyal terbaru dari PT Amarta Karya (Persero)
 
 ---
 
-*[← Kembali ke Tier 2 Overview](index.md) · [📊 Pipeline Dashboard](../dashboard.md)*
+[← Kembali ke Tier 2](index.md) · [Pipeline Dashboard](../dashboard.md)

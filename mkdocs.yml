@@ -1,117 +1,140 @@
 site_name: Fayolex BUMN Pipeline
-site_description: Sales Intelligence — Peluang LMS di BUMN Indonesia
+site_description: Riset Sales Intelligence — Peluang LMS di BUMN Indonesia
 site_url: https://fentonmartin.github.io/fayolex-bumn-pipeline
 repo_url: https://github.com/fentonmartin/fayolex-bumn-pipeline
+repo_name: fayolex-bumn-pipeline
 
 theme:
   name: material
   language: id
   palette:
     - scheme: default
-      primary: indigo
-      accent: blue
+      primary: deep purple
+      accent: purple
       toggle:
         icon: material/brightness-7
-        name: Mode Gelap
+        name: Beralih ke mode gelap
     - scheme: slate
-      primary: indigo
-      accent: blue
+      primary: deep purple
+      accent: purple
       toggle:
         icon: material/brightness-4
-        name: Mode Terang
+        name: Beralih ke mode terang
   features:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
-    - navigation.expand
     - navigation.top
+    - navigation.footer
     - search.highlight
     - search.suggest
     - search.share
     - content.tooltips
     - toc.follow
+    - header.autohide
+  font:
+    text: Inter
+    code: JetBrains Mono
   icon:
     repo: fontawesome/brands/github
 
 plugins:
   - search:
-      lang: id
-  - tags
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.|(?<=\w)(?=[^\w])'
 
 markdown_extensions:
+  - abbr
   - admonition
-  - tables
   - attr_list
   - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  - pymdownx.highlight
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
   - pymdownx.superfences
-  - pymdownx.details
-  - pymdownx.tasklist
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
 
 extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/fentonmartin
 
-copyright: "© 2026 Fayolex Learning Experience · Internal Use Only"
+copyright: "© 2026 Fayolex Learning Experience · Hanya untuk Internal"
 
 nav:
-  - 🏠 Beranda: index.md
-  - 📊 Pipeline Dashboard: dashboard.md
-  - 🎯 Tier 1 — Prioritas Utama:
+  - Beranda: index.md
+  - Pipeline Dashboard: dashboard.md
+  - Tier 1 — Prioritas:
     - Ringkasan Tier 1: tier1/index.md
-    - Kereta Api Indonesia: tier1/kereta-api-indonesia.md
-    - Pegadaian: tier1/pegadaian.md
-    - Bank Syariah Indonesia: tier1/bsi.md
-    - Bank Rakyat Indonesia: tier1/bank-rakyat-indonesia.md
-    - Pertamina: tier1/pertamina.md
     - PLN: tier1/pln.md
-  - 📋 Tier 2 — Follow-up:
+    - BRI: tier1/bank-rakyat-indonesia.md
+    - KAI: tier1/kereta-api-indonesia.md
+    - Pegadaian: tier1/pegadaian.md
+    - Pertamina: tier1/pertamina.md
+    - BSI: tier1/bsi.md
+  - Tier 2 — Follow-up:
     - Ringkasan Tier 2: tier2/index.md
-    - Agrinas Palma Nusantara: tier2/agrinas-palma-nusantara.md
-    - Agrinas Pangan Nusantara: tier2/agrinas-pangan-nusantara.md
+    - Adhi Karya: tier2/adhi-karya.md
+    - Agrinas Jaladri: tier2/agrinas-jaladri-nusantara.md
+    - Agrinas Palma: tier2/agrinas-palma-nusantara.md
+    - Agrinas Pangan: tier2/agrinas-pangan-nusantara.md
     - Amarta Karya: tier2/amarta-karya.md
+    - Angkasa Pura: tier2/angkasa-pura-indonesia.md
     - ASABRI: tier2/asabri.md
-    - Bahana Pembinaan Usaha Indonesia: tier2/bahana-pembinaan-usaha-indonesia.md
+    - ASDP Ferry: tier2/asdp-indonesia-ferry.md
+    - Asuransi Kredit: tier2/asuransi-kredit-indonesia.md
+    - Bahana PUI: tier2/bahana-pembinaan-usaha-indonesia.md
     - Barata Indonesia: tier2/barata-indonesia.md
     - Bio Farma: tier2/bio-farma.md
-    - Dok dan Perkapalan Kodja Bahari: tier2/dok-dan-perkapalan-kodja-bahari.md
-    - Dok dan Perkapalan Surabaya: tier2/dok-dan-perkapalan-surabaya.md
+    - Biro Klasifikasi: tier2/biro-klasifikasi-indonesia.md
+    - Brantas Abipraya: tier2/brantas-abipraya.md
+    - DAMRI: tier2/perum-damri.md
+    - Danareksa: tier2/danareksa.md
+    - Dok Kodja Bahari: tier2/dok-dan-perkapalan-kodja-bahari.md
+    - Dok Surabaya: tier2/dok-dan-perkapalan-surabaya.md
     - Garuda Indonesia: tier2/garuda-indonesia.md
-    - Industri Kereta Api: tier2/industri-kereta-api.md
-    - Industri Telekomunikasi Indonesia: tier2/industri-telekomunikasi-indonesia.md
-    - Perum Kehutanan Negara (Perhutani): tier2/perum-kehutanan-negara-perhutani.md
+    - InJourney: tier2/aviasi-pariwisata-indonesia.md
+    - Industri Kapal: tier2/industri-kapal-indonesia.md
+    - INKA: tier2/industri-kereta-api.md
+    - INTI Telekom: tier2/industri-telekomunikasi-indonesia.md
+    - Jamkrindo: tier2/perum-jamkrindo.md
+    - Kimia Farma: tier2/kimia-farma-tbk.md
     - Len Industri: tier2/len-industri.md
-    - Pelayaran Nasional Indonesia: tier2/pelayaran-nasional-indonesia.md
-    - Perum Percetakan Uang Republik Indonesia: tier2/perum-percetakan-uang-republik-indonesia.md
+    - LKBN Antara: tier2/perum-lkbn-antara.md
+    - PAL Indonesia: tier2/pal-indonesia.md
+    - Pelayaran Nasional: tier2/pelayaran-nasional-indonesia.md
+    - Pembangunan Perumahan: tier2/pembangunan-perumahan.md
+    - Percetakan Uang RI: tier2/perum-percetakan-uang-republik-indonesia.md
     - Perkebunan Nusantara I: tier2/perkebunan-nusantara-i.md
-    - Perkebunan Nusantara IV: tier2/perkebunan-nusantara-iv.md
-    - Rajawali Nusantara Indonesia: tier2/rajawali-nusantara-indonesia.md
+    - PTPN IV: tier2/perkebunan-nusantara-iv.md
+    - Perhutani: tier2/perum-kehutanan-negara-perhutani.md
+    - Perumnas: tier2/perum-perumnas.md
+    - PFN: tier2/produksi-film-negara.md
+    - Rajawali Nusantara: tier2/rajawali-nusantara-indonesia.md
+    - Reasuransi Indonesia: tier2/reasuransi-indonesia-utama.md
     - Rekayasa Industri: tier2/rekayasa-industri.md
     - TASPEN: tier2/taspen.md
-    - Wijaya Karya: tier2/wijaya-karya.md
-    - Adhi Karya: tier2/adhi-karya.md
-    - Agrinas Jaladri Nusantara: tier2/agrinas-jaladri-nusantara.md
-    - Asuransi Kredit Indonesia: tier2/asuransi-kredit-indonesia.md
-    - Aviasi Pariwisata Indonesia: tier2/aviasi-pariwisata-indonesia.md
-    - Biro Klasifikasi Indonesia: tier2/biro-klasifikasi-indonesia.md
-    - Brantas Abipraya: tier2/brantas-abipraya.md
-    - Perum DAMRI: tier2/perum-damri.md
-    - Danareksa: tier2/danareksa.md
-    - Industri Kapal Indonesia: tier2/industri-kapal-indonesia.md
-    - Perum Jamkrindo: tier2/perum-jamkrindo.md
-    - Kimia Farma Tbk: tier2/kimia-farma-tbk.md
-    - Perum LKBN Antara: tier2/perum-lkbn-antara.md
-    - PAL Indonesia: tier2/pal-indonesia.md
-    - Pembangunan Perumahan: tier2/pembangunan-perumahan.md
-    - Perum Perumnas: tier2/perum-perumnas.md
-    - Produksi Film Negara: tier2/produksi-film-negara.md
-    - Reasuransi Indonesia Utama: tier2/reasuransi-indonesia-utama.md
     - Waskita Karya: tier2/waskita-karya.md
-    - Angkasa Pura Indonesia: tier2/angkasa-pura-indonesia.md
-    - ASDP Indonesia Ferry: tier2/asdp-indonesia-ferry.md
-  - 📈 Market Overview: market-overview.md
-  - ℹ️ Panduan Tim Sales: guide.md
+    - Wijaya Karya: tier2/wijaya-karya.md
+  - Market Overview: market-overview.md
+  - Panduan Tim Sales: guide.md

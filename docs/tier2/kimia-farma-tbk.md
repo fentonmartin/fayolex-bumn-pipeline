@@ -1,17 +1,7 @@
-[🏠 Beranda](../index.md) › [📋 Tier 2](index.md) › Kimia Farma Tbk
-
----
-
 # PT Kimia Farma Tbk
 
-!!! abstract "Ringkasan Cepat"
-    | | |
-    |---|---|
-    | **Priority Score** | 8 |
-    | **Tier** | Tier 2 — Follow-up |
-    | **Danantara** | ❌ Tidak |
-    | **Status LMS** | Ada platform LMS |
-    | **Pendekatan** | Take-over |
+!!! tip "Ringkasan Cepat"
+    **Priority Score:** 8 | **Tier:** Tier 2 — Follow-up | **Danantara:** ❌ Tidak | **Status LMS:** Ada platform LMS | **Pendekatan:** Take-over
 
 ---
 
@@ -19,22 +9,23 @@
 PT Kimia Farma Tbk adalah perusahaan farmasi terbesar di Indonesia dengan lebih dari 14.811 karyawan. Perusahaan ini memiliki visi untuk menjadi perusahaan kesehatan terkemuka di Indonesia dengan fokus pada pengembangan sumber daya manusia (SDM) yang berkualitas. Fayolex harus prioritaskan ini karena PT Kimia Farma Tbk sedang melakukan transformasi digital dan memiliki kebutuhan untuk meningkatkan kemampuan SDM-nya melalui program pelatihan dan pengembangan yang lebih komprehensif.
 
 ## Account Snapshot
-| Field | Nilai | Label | Sumber |
-|---|---|---|---|
-| Karyawan | 14.811 | [V] | Laporan Tahunan PT Kimia Farma Tbk 2022 |
-| Sektor | Farmasi | [V] | Website PT Kimia Farma Tbk |
-| Danantara | ❌ Tidak | [V] | PP No.15/2025 |
-| LMS Status | Ada platform LMS | [V] | Website PT Kimia Farma Tbk |
-| Corporate University | Ada | [V] | Website PT Kimia Farma Tbk |
-| Direktur SDM / HC | Tidak ditemukan | [U] | - |
-| Budget SDM Signal | Ada signal anggaran | [I] | Laporan Tahunan PT Kimia Farma Tbk 2022 |
-| Website | https://www.kimiafarma.co.id/ | [V] | - |
+| Field | Data |
+|---|---|
+| **Karyawan** | 14.811 |
+| **Sektor** | Farmasi |
+| **Danantara** | ❌ Tidak |
+| **LMS Status** | Ada platform LMS |
+| **Corporate University** | Ada |
+| **Direktur SDM / HC** | Tidak ditemukan |
+| **Budget SDM Signal** | Ada signal anggaran |
+| **Website** | https://www.kimiafarma.co.id/ |
 
 ## SDM & Learning Landscape
 PT Kimia Farma Tbk memiliki visi untuk menjadi perusahaan kesehatan terkemuka di Indonesia dengan fokus pada pengembangan sumber daya manusia (SDM) yang berkualitas. Perusahaan ini telah mengembangkan program pelatihan dan pengembangan SDM yang berfokus pada teknologi dan inovasi. Target pengembangan SDM Kimia Farma pada 2024-2025 adalah meningkatkan kemampuan karyawan dalam menggunakan teknologi digital dan analitis untuk meningkatkan kinerja perusahaan.
 
 ## LMS Status & Opportunity
-**Status:** Take-over potential
+!!! success "LMS Status"
+    Take-over potential
 
 PT Kimia Farma Tbk telah memiliki platform LMS, namun masih ada celah untuk Fayolex memasuki pasar ini dengan menawarkan solusi yang lebih komprehensif dan efektif. Dengan menggunakan metode 70:30:10, Fayolex dapat membantu PT Kimia Farma Tbk meningkatkan kemampuan SDM-nya dan mencapai tujuan perusahaan.
 
@@ -49,11 +40,11 @@ Breakdown:
 - Transformasi aktif: +1 (sedang melakukan transformasi digital)
 
 ## Buying Group Hypothesis
-| Peran | Nama/Jabatan | Confidence |
+| Peran | Nama | Status |
 |---|---|---|
-| Economic Buyer | Direktur Keuangan | [V] |
-| Technical Evaluator | GM Learning/Pusdiklat | [V] |
-| Champion Internal | Manager L&D | [U] |
+| Economic Buyer | Direktur Keuangan |  |
+| Technical Evaluator | GM Learning/Pusdiklat |  |
+| Champion Internal | Manager L&D |  |
 
 ## Trigger Events
 1. Transformasi digital PT Kimia Farma Tbk
@@ -61,8 +52,8 @@ Breakdown:
 3. Perubahan kepemimpinan atau struktur organisasi
 
 ## Berita & Sinyal Terbaru
-* PT Kimia Farma Tbk meluncurkan program pelatihan dan pengembangan SDM baru pada tahun 2024 (Sumber: Website PT Kimia Farma Tbk)
-* Perusahaan ini berencana untuk meningkatkan kemampuan karyawan dalam menggunakan teknologi digital dan analitis (Sumber: Laporan Tahunan PT Kimia Farma Tbk 2022)
+- PT Kimia Farma Tbk meluncurkan program pelatihan dan pengembangan SDM baru pada tahun 2024 (Sumber: Website PT Kimia Farma Tbk)
+- Perusahaan ini berencana untuk meningkatkan kemampuan karyawan dalam menggunakan teknologi digital dan analitis (Sumber: Laporan Tahunan PT Kimia Farma Tbk 2022)
 
 ## Recommended Approach
 **Take-over**
@@ -79,10 +70,10 @@ Pilot suggestion: Mengembangkan program pelatihan dan pengembangan SDM yang lebi
 5. Apa saja langkah-langkah yang akan diambil oleh PT Kimia Farma Tbk untuk meningkatkan kemampuan SDM-nya dalam beberapa tahun ke depan?
 
 ## Sumber
-* Website PT Kimia Farma Tbk
-* Laporan Tahunan PT Kimia Farma Tbk 2022
-* PP No.15/2025
+- Website PT Kimia Farma Tbk
+- Laporan Tahunan PT Kimia Farma Tbk 2022
+- PP No.15/2025
 
 ---
 
-*[← Kembali ke Tier 2 Overview](index.md) · [📊 Pipeline Dashboard](../dashboard.md)*
+[← Kembali ke Tier 2](index.md) · [Pipeline Dashboard](../dashboard.md)

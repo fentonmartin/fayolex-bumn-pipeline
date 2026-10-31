@@ -1,17 +1,7 @@
-[🏠 Beranda](../index.md) › [📋 Tier 2](index.md) › Brantas Abipraya
-
----
-
 # PT Brantas Abipraya (Persero)
 
-!!! abstract "Ringkasan Cepat"
-    | | |
-    |---|---|
-    | **Priority Score** | 8 |
-    | **Tier** | Tier 2 — Follow-up |
-    | **Danantara** | ✅ Ya (PP No.15/2025) |
-    | **Status LMS** | Ada platform LMS e-learning |
-    | **Pendekatan** | Take-over |
+!!! tip "Ringkasan Cepat"
+    **Priority Score:** 8 | **Tier:** Tier 2 — Follow-up | **Danantara:** ✅ Ya (PP No.15/2025) | **Status LMS:** Ada platform LMS e-learning | **Pendekatan:** Take-over
 
 ---
 
@@ -19,22 +9,23 @@
 PT Brantas Abipraya (Persero) adalah perusahaan konstruksi yang dimiliki oleh pemerintah Indonesia dengan sekitar 1.341 karyawan. Perusahaan ini memiliki LMS e-learning corporate university platform untuk meningkatkan kemampuan dan pengetahuan karyawannya. Fayolex harus prioritaskan ini karena PT Brantas Abipraya (Persero) sedang melakukan transformasi digital dan memiliki program Human Capital 2025 untuk meningkatkan kemampuan dan kompetensi sumber daya manusia.
 
 ## Account Snapshot
-| Field | Nilai | Label | Sumber |
-|---|---|---|---|
-| Karyawan | 1.341 | [V] | Training data |
-| Sektor | Konstruksi | [V] | Training data |
-| Danantara | ✅ Ya (PP No.15/2025) | [V] | PP No.15/2025 |
-| LMS Status | Ada platform LMS e-learning | [V] | Training data |
-| Corporate University | Ada | [V] | Training data |
-| Direktur SDM / HC | Tidak ditemukan | [U] | - |
-| Budget SDM Signal | Ada signal anggaran | [I] | Program Human Capital 2025 |
-| Website | Tidak ditemukan | [U] | - |
+| Field | Data |
+|---|---|
+| **Karyawan** | 1.341 |
+| **Sektor** | Konstruksi |
+| **Danantara** | ✅ Ya (PP No.15/2025) |
+| **LMS Status** | Ada platform LMS e-learning |
+| **Corporate University** | Ada |
+| **Direktur SDM / HC** | Tidak ditemukan |
+| **Budget SDM Signal** | Ada signal anggaran |
+| **Website** | Tidak ditemukan |
 
 ## SDM & Learning Landscape
 PT Brantas Abipraya (Persero) memiliki program Human Capital 2025 untuk meningkatkan kemampuan dan kompetensi sumber daya manusia. Perusahaan ini juga memiliki LMS e-learning corporate university platform untuk meningkatkan kemampuan dan pengetahuan karyawannya.
 
 ## LMS Status & Opportunity
-**Status:** Take-over potential
+!!! success "LMS Status"
+    Take-over potential
 
 PT Brantas Abipraya (Persero) sudah memiliki LMS e-learning corporate university platform, namun Fayolex dapat membantu meningkatkan kemampuan dan kompetensi karyawannya dengan metode 70:30:10.
 
@@ -50,11 +41,11 @@ Breakdown:
 - Penalti: 0
 
 ## Buying Group Hypothesis
-| Peran | Nama/Jabatan | Confidence |
+| Peran | Nama | Status |
 |---|---|---|
-| Economic Buyer | Direktur Keuangan | [U] |
-| Technical Evaluator | GM Learning/Pusdiklat | [U] |
-| Champion Internal | Manager L&D | [U] |
+| Economic Buyer | Direktur Keuangan |  |
+| Technical Evaluator | GM Learning/Pusdiklat |  |
+| Champion Internal | Manager L&D |  |
 
 ## Trigger Events
 1. Program Human Capital 2025
@@ -62,8 +53,8 @@ Breakdown:
 3. Perubahan direktur atau jabatan lainnya
 
 ## Berita & Sinyal Terbaru
-* PT Brantas Abipraya (Persero) melaksanakan transformasi digital untuk meningkatkan efisiensi dan efektifitas operasional.
-* Perusahaan ini memiliki program Human Capital 2025 untuk meningkatkan kemampuan dan kompetensi sumber daya manusia.
+- PT Brantas Abipraya (Persero) melaksanakan transformasi digital untuk meningkatkan efisiensi dan efektifitas operasional.
+- Perusahaan ini memiliki program Human Capital 2025 untuk meningkatkan kemampuan dan kompetensi sumber daya manusia.
 
 ## Recommended Approach
 **Take-over**
@@ -80,10 +71,10 @@ Pilot suggestion: Melakukan pilot project untuk meningkatkan kemampuan dan kompe
 5. Bagaimana roadmap transformasi digital PT Brantas Abipraya (Persero)?
 
 ## Sumber
-* Training data
-* PP No.15/2025
-* Website perusahaan (jika ada)
+- Training data
+- PP No.15/2025
+- Website perusahaan (jika ada)
 
 ---
 
-*[← Kembali ke Tier 2 Overview](index.md) · [📊 Pipeline Dashboard](../dashboard.md)*
+[← Kembali ke Tier 2](index.md) · [Pipeline Dashboard](../dashboard.md)

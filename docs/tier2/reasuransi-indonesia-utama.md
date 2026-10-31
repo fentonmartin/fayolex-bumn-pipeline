@@ -1,17 +1,7 @@
-[🏠 Beranda](../index.md) › [📋 Tier 2](index.md) › Reasuransi Indonesia Utama
-
----
-
 # PT Reasuransi Indonesia Utama (Persero)
 
-!!! abstract "Ringkasan Cepat"
-    | | |
-    |---|---|
-    | **Priority Score** | 8 |
-    | **Tier** | Tier 2 — Follow-up |
-    | **Danantara** | ✅ Ya (PP No.15/2025) |
-    | **Status LMS** | Ada platform e-learning |
-    | **Pendekatan** | Take-over |
+!!! tip "Ringkasan Cepat"
+    **Priority Score:** 8 | **Tier:** Tier 2 — Follow-up | **Danantara:** ✅ Ya (PP No.15/2025) | **Status LMS:** Ada platform e-learning | **Pendekatan:** Take-over
 
 ---
 
@@ -19,22 +9,23 @@
 PT Reasuransi Indonesia Utama (Persero) adalah perusahaan reasuransi milik negara Indonesia dengan sekitar 200-300 karyawan. Perusahaan ini memiliki platform e-learning corporate university untuk meningkatkan kemampuan dan pengetahuan karyawannya. Fayolex harus prioritaskan ini karena perusahaan ini sedang melakukan transformasi digital dan pengembangan SDM, serta memiliki potensi take-over LMS yang ada.
 
 ## Account Snapshot
-| Field | Nilai | Label | Sumber |
-|---|---|---|---|
-| Karyawan | 200-300 | [V] | Search Results |
-| Sektor | Reasuransi | [V] | Search Results |
-| Danantara | ✅ Ya (PP No.15/2025) | [V] | PP No.15/2025 |
-| LMS Status | Ada platform e-learning | [V] | Search Results |
-| Corporate University | Ada | [V] | Search Results |
-| Direktur SDM / HC | Tidak ditemukan | [U] | Search Results |
-| Budget SDM Signal | Ada signal anggaran | [I] | Search Results |
-| Website | [url] | [V] | - |
+| Field | Data |
+|---|---|
+| **Karyawan** | 200-300 |
+| **Sektor** | Reasuransi |
+| **Danantara** | ✅ Ya (PP No.15/2025) |
+| **LMS Status** | Ada platform e-learning |
+| **Corporate University** | Ada |
+| **Direktur SDM / HC** | Tidak ditemukan |
+| **Budget SDM Signal** | Ada signal anggaran |
+| **Website** | (website tidak teridentifikasi) |
 
 ## SDM & Learning Landscape
 PT Reasuransi Indonesia Utama (Persero) memiliki program SDM yang fokus pada pengembangan kemampuan dan pengetahuan karyawan. Perusahaan ini juga memiliki platform e-learning corporate university untuk mendukung program SDM.
 
 ## LMS Status & Opportunity
-**Status:** Take-over potential
+!!! success "LMS Status"
+    Take-over potential
 
 Perusahaan ini memiliki platform e-learning yang ada, namun masih memiliki potensi untuk diambil alih oleh Fayolex. Platform e-learning yang ada dapat ditingkatkan dengan teknologi dan metodologi 70:30:10 yang dimiliki Fayolex.
 
@@ -49,11 +40,11 @@ Breakdown:
 - Transformasi aktif: +1 (sedang melakukan transformasi digital dan pengembangan SDM)
 
 ## Buying Group Hypothesis
-| Peran | Nama/Jabatan | Confidence |
+| Peran | Nama | Status |
 |---|---|---|
-| Economic Buyer | Direktur Utama | [V] |
-| Technical Evaluator | GM Learning/Pusdiklat | [V] |
-| Champion Internal | Manager L&D | [U] |
+| Economic Buyer | Direktur Utama |  |
+| Technical Evaluator | GM Learning/Pusdiklat |  |
+| Champion Internal | Manager L&D |  |
 
 ## Trigger Events
 1. Transformasi digital dan pengembangan SDM
@@ -61,8 +52,8 @@ Breakdown:
 3. Pengembangan platform e-learning corporate university
 
 ## Berita & Sinyal Terbaru
-* PT Reasuransi Indonesia Utama (Persero) melakukan transformasi digital dan pengembangan SDM (2024)
-* Perusahaan ini memiliki platform e-learning corporate university untuk meningkatkan kemampuan dan pengetahuan karyawan (2024)
+- PT Reasuransi Indonesia Utama (Persero) melakukan transformasi digital dan pengembangan SDM (2024)
+- Perusahaan ini memiliki platform e-learning corporate university untuk meningkatkan kemampuan dan pengetahuan karyawan (2024)
 
 ## Recommended Approach
 **Take-over**
@@ -79,9 +70,9 @@ Pilot suggestion: Mengembangkan program pelatihan untuk karyawan dengan mengguna
 5. Apa yang menjadi rencana perusahaan ini untuk meningkatkan kemampuan dan pengetahuan karyawan?
 
 ## Sumber
-* Search Results: PT Reasuransi Indonesia Utama (Persero)
-* PP No.15/2025: Peraturan Pemerintah tentang Danareksa Holding 2025
+- Search Results: PT Reasuransi Indonesia Utama (Persero)
+- PP No.15/2025: Peraturan Pemerintah tentang Danareksa Holding 2025
 
 ---
 
-*[← Kembali ke Tier 2 Overview](index.md) · [📊 Pipeline Dashboard](../dashboard.md)*
+[← Kembali ke Tier 2](index.md) · [Pipeline Dashboard](../dashboard.md)

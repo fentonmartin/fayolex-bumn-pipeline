@@ -1,17 +1,7 @@
-[🏠 Beranda](../index.md) › [📋 Tier 2](index.md) › Perum LKBN Antara
-
----
-
 # Perum LKBN Antara
 
-!!! abstract "Ringkasan Cepat"
-    | | |
-    |---|---|
-    | **Priority Score** | 8 |
-    | **Tier** | Tier 2 — Follow-up |
-    | **Danantara** | ❌ Tidak / [U] |
-    | **Status LMS** | [U] |
-    | **Pendekatan** | [Greenfield] |
+!!! tip "Ringkasan Cepat"
+    **Priority Score:** 8 | **Tier:** Tier 2 — Follow-up | **Danantara:** ❌ Tidak | **Pendekatan:** [Greenfield]
 
 ---
 
@@ -19,22 +9,23 @@
 Perum LKBN Antara adalah perusahaan milik negara yang bergerak di bidang penyiaran dan informasi dengan jumlah karyawan yang tidak dapat dipastikan karena data tersebut mungkin belum dirilis atau tidak tersedia secara publik. Fayolex harus prioritaskan ini sekarang karena Perum LKBN Antara sedang melakukan transformasi digital dan memiliki rencana untuk meningkatkan kemampuan dan kualitas sumber daya manusia di tahun 2024-2025.
 
 ## Account Snapshot
-| Field | Nilai | Label | Sumber |
-|---|---|---|---|
-| Karyawan | [U] | [U] | - |
-| Sektor | Penyiaran dan Informasi | [V] | [Training data] |
-| Danantara | ❌ Tidak | [V] | PP No.15/2025 |
-| LMS Status | [U] | [U] | - |
-| Corporate University | [U] | [U] | - |
-| Direktur SDM / HC | [U] | [U] | - |
-| Budget SDM Signal | [I] Ada signal anggaran | [I] | [Training data] |
-| Website | [U] | [U] | - |
+| Field | Data |
+|---|---|
+| **Karyawan** |  |
+| **Sektor** | Penyiaran dan Informasi |
+| **Danantara** | ❌ Tidak |
+| **LMS Status** |  |
+| **Corporate University** |  |
+| **Direktur SDM / HC** |  |
+| **Budget SDM Signal** | Ada signal anggaran |
+| **Website** |  |
 
 ## SDM & Learning Landscape
 Perum LKBN Antara memiliki program Human Capital 2025 yang dirancang untuk meningkatkan kemampuan dan kualitas sumber daya manusia di perusahaan. Program ini meliputi pelatihan, pengembangan karir, dan peningkatan kesejahteraan karyawan. Perusahaan ini juga memiliki rencana untuk meningkatkan kemampuan karyawan dalam bidang teknologi informasi, komunikasi, dan broadcasting digital.
 
 ## LMS Status & Opportunity
-**Status:** [U] Unknown
+!!! success "LMS Status"
+    Unknown
 
 Perum LKBN Antara tidak memiliki informasi yang jelas tentang status LMS-nya. Namun, dengan rencana transformasi digital dan pengembangan sumber daya manusia, terdapat celah untuk Fayolex memasuki pasar ini dengan menawarkan solusi LMS yang sesuai dengan kebutuhan perusahaan.
 
@@ -50,11 +41,11 @@ Breakdown:
 - Penalti: 0 (tidak ada penalti)
 
 ## Buying Group Hypothesis
-| Peran | Nama/Jabatan | Confidence |
+| Peran | Nama | Status |
 |---|---|---|
-| Economic Buyer | Direktur Utama | [V] |
-| Technical Evaluator | GM Learning/Pusdiklat | [I] |
-| Champion Internal | Manager L&D | [I] |
+| Economic Buyer | Direktur Utama |  |
+| Technical Evaluator | GM Learning/Pusdiklat |  |
+| Champion Internal | Manager L&D |  |
 
 ## Trigger Events
 1. Transformasi digital Perum LKBN Antara (2024-2025)
@@ -62,8 +53,8 @@ Breakdown:
 3. Perubahan direktur atau kepemimpinan di perusahaan
 
 ## Berita & Sinyal Terbaru
-* Perum LKBN Antara melakukan transformasi digital untuk meningkatkan kualitas layanan dan efisiensi operasional (2024)
-* Perusahaan ini memiliki rencana untuk meningkatkan kemampuan karyawan dalam bidang teknologi informasi, komunikasi, dan broadcasting digital (2024-2025)
+- Perum LKBN Antara melakukan transformasi digital untuk meningkatkan kualitas layanan dan efisiensi operasional (2024)
+- Perusahaan ini memiliki rencana untuk meningkatkan kemampuan karyawan dalam bidang teknologi informasi, komunikasi, dan broadcasting digital (2024-2025)
 
 ## Recommended Approach
 **[Greenfield]**
@@ -80,10 +71,10 @@ Pilot suggestion: Melakukan pilot proyek pelatihan digital untuk meningkatkan ke
 5. Apa timeline yang diharapkan untuk implementasi solusi LMS?
 
 ## Sumber
-* [Training data] Perum LKBN Antara adalah perusahaan milik negara yang bergerak di bidang penyiaran dan informasi.
-* [Training data] Perum LKBN Antara memiliki program Human Capital 2025 untuk meningkatkan kemampuan dan kualitas sumber daya manusia.
-* [PP No.15/2025] Perum LKBN Antara tidak termasuk dalam Danantara.
+- [Training data] Perum LKBN Antara adalah perusahaan milik negara yang bergerak di bidang penyiaran dan informasi.
+- [Training data] Perum LKBN Antara memiliki program Human Capital 2025 untuk meningkatkan kemampuan dan kualitas sumber daya manusia.
+- [PP No.15/2025] Perum LKBN Antara tidak termasuk dalam Danantara.
 
 ---
 
-*[← Kembali ke Tier 2 Overview](index.md) · [📊 Pipeline Dashboard](../dashboard.md)*
+[← Kembali ke Tier 2](index.md) · [Pipeline Dashboard](../dashboard.md)

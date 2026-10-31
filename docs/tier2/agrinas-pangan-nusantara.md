@@ -1,17 +1,7 @@
-[🏠 Beranda](../index.md) › [📋 Tier 2](index.md) › Agrinas Pangan Nusantara
-
----
-
 # PT Agrinas Pangan Nusantara (Persero)
 
-!!! abstract "Ringkasan Cepat"
-    | | |
-    |---|---|
-    | **Priority Score** | 9 |
-    | **Tier** | Tier 2 — Follow-up |
-    | **Danantara** | ✅ Ya (PP No.15/2025) |
-    | **Status LMS** | Ada platform e-learning corporate university |
-    | **Pendekatan** | Take-over |
+!!! tip "Ringkasan Cepat"
+    **Priority Score:** 9 | **Tier:** Tier 2 — Follow-up | **Danantara:** ✅ Ya (PP No.15/2025) | **Status LMS:** Ada platform e-learning corporate university | **Pendekatan:** Take-over
 
 ---
 
@@ -19,22 +9,23 @@
 PT Agrinas Pangan Nusantara (Persero) adalah perusahaan BUMN yang bergerak di bidang pangan dan pertanian dengan sekitar 500-700 karyawan. Perusahaan ini memiliki platform e-learning corporate university untuk meningkatkan kemampuan karyawan, namun masih ada celah untuk Fayolex memasuki pasar ini dengan metodologi 70:30:10. Fayolex harus memprioritaskan ini karena perusahaan ini memiliki rencana strategis untuk meningkatkan kapabilitas dan kompetensi di bidang pangan dan pertanian hingga tahun 2025.
 
 ## Account Snapshot
-| Field | Nilai | Label | Sumber |
-|---|---|---|---|
-| Karyawan | 500-700 | [V] | Laporan tahunan PT Agrinas Pangan Nusantara (Persero) 2024 |
-| Sektor | Pangan dan Pertanian | [V] | Profil perusahaan |
-| Danantara | ✅ Ya (PP No.15/2025) | [V] | PP No.15/2025 |
-| LMS Status | Ada platform e-learning corporate university | [V] | Laporan tahunan PT Agrinas Pangan Nusantara (Persero) 2024 |
-| Corporate University | Ada | [V] | Laporan tahunan PT Agrinas Pangan Nusantara (Persero) 2024 |
-| Direktur SDM / HC | Tidak ditemukan | [U] | - |
-| Budget SDM Signal | Ada signal anggaran | [I] | Rencana strategis perusahaan |
-| Website | Tidak ditemukan | [U] | - |
+| Field | Data |
+|---|---|
+| **Karyawan** | 500-700 |
+| **Sektor** | Pangan dan Pertanian |
+| **Danantara** | ✅ Ya (PP No.15/2025) |
+| **LMS Status** | Ada platform e-learning corporate university |
+| **Corporate University** | Ada |
+| **Direktur SDM / HC** | Tidak ditemukan |
+| **Budget SDM Signal** | Ada signal anggaran |
+| **Website** | Tidak ditemukan |
 
 ## SDM & Learning Landscape
 PT Agrinas Pangan Nusantara (Persero) memiliki program pelatihan online untuk meningkatkan kompetensi karyawan, namun belum ada informasi tentang program reskilling dan pengembangan karyawan yang spesifik.
 
 ## LMS Status & Opportunity
-**Status:** Take-over potential
+!!! success "LMS Status"
+    Take-over potential
 
 Perusahaan ini sudah memiliki platform e-learning corporate university, namun masih ada celah untuk Fayolex memasuki pasar ini dengan metodologi 70:30:10 yang lebih komprehensif.
 
@@ -50,11 +41,11 @@ Breakdown:
 - Penalti: 0
 
 ## Buying Group Hypothesis
-| Peran | Nama/Jabatan | Confidence |
+| Peran | Nama | Status |
 |---|---|---|
-| Economic Buyer | Direktur Utama | [V] |
-| Technical Evaluator | Kepala Bagian Pelatihan | [I] |
-| Champion Internal | Kepala Bagian SDM | [I] |
+| Economic Buyer | Direktur Utama |  |
+| Technical Evaluator | Kepala Bagian Pelatihan |  |
+| Champion Internal | Kepala Bagian SDM |  |
 
 ## Trigger Events
 1. Rencana strategis perusahaan untuk meningkatkan kapabilitas dan kompetensi di bidang pangan dan pertanian hingga tahun 2025.
@@ -62,8 +53,8 @@ Breakdown:
 3. Perubahan direktur utama atau kepala bagian SDM.
 
 ## Berita & Sinyal Terbaru
-* PT Agrinas Pangan Nusantara (Persero) meluncurkan program pelatihan online untuk meningkatkan kompetensi karyawan (2024)
-* Perusahaan ini berencana untuk meningkatkan kapabilitas dan kompetensi di bidang pangan dan pertanian hingga tahun 2025 (2024)
+- PT Agrinas Pangan Nusantara (Persero) meluncurkan program pelatihan online untuk meningkatkan kompetensi karyawan (2024)
+- Perusahaan ini berencana untuk meningkatkan kapabilitas dan kompetensi di bidang pangan dan pertanian hingga tahun 2025 (2024)
 
 ## Recommended Approach
 **Take-over**
@@ -80,11 +71,11 @@ Pilot suggestion: Pelatihan pilot untuk 100 karyawan dengan menggunakan metodolo
 5. Apa saja rencana perusahaan ini untuk meningkatkan kapabilitas dan kompetensi di bidang pangan dan pertanian hingga tahun 2025?
 
 ## Sumber
-* Laporan tahunan PT Agrinas Pangan Nusantara (Persero) 2024
-* Profil perusahaan
-* PP No.15/2025
-* Berita online tentang PT Agrinas Pangan Nusantara (Persero)
+- Laporan tahunan PT Agrinas Pangan Nusantara (Persero) 2024
+- Profil perusahaan
+- PP No.15/2025
+- Berita online tentang PT Agrinas Pangan Nusantara (Persero)
 
 ---
 
-*[← Kembali ke Tier 2 Overview](index.md) · [📊 Pipeline Dashboard](../dashboard.md)*
+[← Kembali ke Tier 2](index.md) · [Pipeline Dashboard](../dashboard.md)

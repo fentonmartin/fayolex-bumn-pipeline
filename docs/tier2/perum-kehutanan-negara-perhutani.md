@@ -1,17 +1,7 @@
-[🏠 Beranda](../index.md) › [📋 Tier 2](index.md) › Perum Kehutanan Negara (Perhutani)
-
----
-
 # Perum Kehutanan Negara (Perhutani)
 
-!!! abstract "Ringkasan Cepat"
-    | | |
-    |---|---|
-    | **Priority Score** | 9 |
-    | **Tier** | Tier 2 — Follow-up |
-    | **Danantara** | ❌ Tidak / [U] |
-    | **Status LMS** | Ada platform e-learning |
-    | **Pendekatan** | Take-over |
+!!! tip "Ringkasan Cepat"
+    **Priority Score:** 9 | **Tier:** Tier 2 — Follow-up | **Danantara:** ❌ Tidak | **Status LMS:** Ada platform e-learning | **Pendekatan:** Take-over
 
 ---
 
@@ -19,22 +9,23 @@
 Perum Kehutanan Negara (Perhutani) adalah Badan Usaha Milik Negara (BUMN) yang bergerak di bidang kehutanan dengan sekitar 12.000 karyawan. Mereka memiliki platform e-learning corporate university untuk meningkatkan kemampuan dan pengetahuan karyawan. Fayolex harus memprioritaskan ini karena Perhutani sedang mengembangkan program pelatihan digital dan memiliki rencana strategis untuk meningkatkan human capital hingga tahun 2025.
 
 ## Account Snapshot
-| Field | Nilai | Label | Sumber |
-|---|---|---|---|
-| Karyawan | 12.000 | [V] | Laporan tahunan Perhutani 2024 |
-| Sektor | Kehutanan | [V] | Perum Perhutani |
-| Danantara | ❌ Tidak | [V] | PP No.15/2025 |
-| LMS Status | Ada platform e-learning | [V] | Perhutani e-learning corporate university |
-| Corporate University | Perhutani e-learning corporate university | [V] | Perhutani e-learning corporate university |
-| Direktur SDM / HC | Tidak ditemukan | [U] | - |
-| Budget SDM Signal | Ada signal anggaran | [I] | Rencana strategis Perhutani 2025 |
-| Website | perhutani.go.id | [V] | - |
+| Field | Data |
+|---|---|
+| **Karyawan** | 12.000 |
+| **Sektor** | Kehutanan |
+| **Danantara** | ❌ Tidak |
+| **LMS Status** | Ada platform e-learning |
+| **Corporate University** | Perhutani e-learning corporate university |
+| **Direktur SDM / HC** | Tidak ditemukan |
+| **Budget SDM Signal** | Ada signal anggaran |
+| **Website** | perhutani.go.id |
 
 ## SDM & Learning Landscape
 Perhutani memiliki program pelatihan digital untuk meningkatkan kemampuan karyawannya dalam menggunakan teknologi informasi. Mereka juga memiliki rencana strategis untuk meningkatkan human capital hingga tahun 2025, yang mencakup program pelatihan dan pengembangan karyawan.
 
 ## LMS Status & Opportunity
-**Status:** Take-over potential
+!!! success "LMS Status"
+    Take-over potential
 
 Perhutani memiliki platform e-learning corporate university, namun masih ada celah untuk Fayolex mengisi kebutuhan 70:30:10, terutama dalam pengembangan kemampuan digital karyawan.
 
@@ -50,11 +41,11 @@ Breakdown:
 - Penalti: 0 (tidak ada)
 
 ## Buying Group Hypothesis
-| Peran | Nama/Jabatan | Confidence |
+| Peran | Nama | Status |
 |---|---|---|
-| Economic Buyer | Direktur Utama Perhutani | [V] |
-| Technical Evaluator | Kepala Pusdiklat Perhutani | [I] |
-| Champion Internal | Manager L&D Perhutani | [U] |
+| Economic Buyer | Direktur Utama Perhutani |  |
+| Technical Evaluator | Kepala Pusdiklat Perhutani |  |
+| Champion Internal | Manager L&D Perhutani |  |
 
 ## Trigger Events
 1. Perhutani sedang mengembangkan program pelatihan digital untuk meningkatkan kemampuan karyawannya.
@@ -62,9 +53,9 @@ Breakdown:
 3. Perhutani berencana untuk meningkatkan investasi dalam pengembangan sumber daya manusia (SDM) untuk meningkatkan kemampuan karyawannya dalam menghadapi tantangan digital.
 
 ## Berita & Sinyal Terbaru
-* Perhutani meluncurkan program pelatihan digital untuk karyawannya pada tahun 2024.
-* Perhutani memiliki rencana strategis untuk meningkatkan human capital hingga tahun 2025.
-* Perhutani berencana untuk meningkatkan investasi dalam pengembangan sumber daya manusia (SDM) untuk meningkatkan kemampuan karyawannya dalam menghadapi tantangan digital.
+- Perhutani meluncurkan program pelatihan digital untuk karyawannya pada tahun 2024.
+- Perhutani memiliki rencana strategis untuk meningkatkan human capital hingga tahun 2025.
+- Perhutani berencana untuk meningkatkan investasi dalam pengembangan sumber daya manusia (SDM) untuk meningkatkan kemampuan karyawannya dalam menghadapi tantangan digital.
 
 ## Recommended Approach
 **Take-over**
@@ -81,11 +72,11 @@ Pilot suggestion: Melakukan pilot project untuk mengembangkan program pelatihan 
 5. Apa saja tantangan yang dihadapi oleh Perhutani dalam mengembangkan kemampuan digital karyawannya?
 
 ## Sumber
-* Laporan tahunan Perhutani 2024
-* Perhutani e-learning corporate university
-* Rencana strategis Perhutani 2025
-* Berita tentang peluncuran program pelatihan digital Perhutani pada tahun 2024
+- Laporan tahunan Perhutani 2024
+- Perhutani e-learning corporate university
+- Rencana strategis Perhutani 2025
+- Berita tentang peluncuran program pelatihan digital Perhutani pada tahun 2024
 
 ---
 
-*[← Kembali ke Tier 2 Overview](index.md) · [📊 Pipeline Dashboard](../dashboard.md)*
+[← Kembali ke Tier 2](index.md) · [Pipeline Dashboard](../dashboard.md)

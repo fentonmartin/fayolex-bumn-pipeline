@@ -1,17 +1,7 @@
-[🏠 Beranda](../index.md) › [📋 Tier 2](index.md) › Dok dan Perkapalan Kodja Bahari
-
----
-
 # PT Dok dan Perkapalan Kodja Bahari (Persero)
 
-!!! abstract "Ringkasan Cepat"
-    | | |
-    |---|---|
-    | **Priority Score** | 9 |
-    | **Tier** | Tier 2 — Follow-up |
-    | **Danantara** | ✅ Ya (PP No.15/2025) |
-    | **Status LMS** | Ada platform e-learning corporate university |
-    | **Pendekatan** | Take-over |
+!!! tip "Ringkasan Cepat"
+    **Priority Score:** 9 | **Tier:** Tier 2 — Follow-up | **Danantara:** ✅ Ya (PP No.15/2025) | **Status LMS:** Ada platform e-learning corporate university | **Pendekatan:** Take-over
 
 ---
 
@@ -19,22 +9,23 @@
 PT Dok dan Perkapalan Kodja Bahari (Persero) adalah perusahaan BUMN yang bergerak di bidang galangan kapal dan perkapalan dengan sekitar 1.500 karyawan. Perusahaan ini memiliki platform e-learning corporate university untuk meningkatkan kemampuan dan pengetahuan karyawan. Fayolex harus prioritaskan ini sekarang karena perusahaan ini sedang melakukan transformasi digital dan pengembangan SDM, serta memiliki visi untuk menjadi pemain utama di industri maritim dan logistik di Indonesia dan Asia Tenggara.
 
 ## Account Snapshot
-| Field | Nilai | Label | Sumber |
-|---|---|---|---|
-| Karyawan | 1.500 | [V] | Search Results |
-| Sektor | Galangan Kapal dan Perkapalan | [V] | Search Results |
-| Danantara | ✅ Ya (PP No.15/2025) | [V] | PP No.15/2025 |
-| LMS Status | Ada platform e-learning corporate university | [V] | Search Results |
-| Corporate University | Ada | [V] | Search Results |
-| Direktur SDM / HC | Tidak ditemukan | [U] | Search Results |
-| Budget SDM Signal | Ada signal anggaran | [I] | Search Results |
-| Website | [url] | [V] | - |
+| Field | Data |
+|---|---|
+| **Karyawan** | 1.500 |
+| **Sektor** | Galangan Kapal dan Perkapalan |
+| **Danantara** | ✅ Ya (PP No.15/2025) |
+| **LMS Status** | Ada platform e-learning corporate university |
+| **Corporate University** | Ada |
+| **Direktur SDM / HC** | Tidak ditemukan |
+| **Budget SDM Signal** | Ada signal anggaran |
+| **Website** | (website tidak teridentifikasi) |
 
 ## SDM & Learning Landscape
 PT Dok dan Perkapalan Kodja Bahari (Persero) memiliki program SDM yang fokus pada pengembangan kemampuan dan pengetahuan karyawan. Perusahaan ini juga memiliki platform e-learning corporate university untuk meningkatkan kompetensi dan produktivitas karyawan.
 
 ## LMS Status & Opportunity
-**Status:** Take-over potential
+!!! success "LMS Status"
+    Take-over potential
 
 Perusahaan ini memiliki platform e-learning corporate university, namun masih ada celah untuk Fayolex mengisi kebutuhan 70:30:10 yang lebih spesifik dan terstruktur.
 
@@ -49,11 +40,11 @@ Breakdown:
 - Transformasi aktif: +1 (sedang melakukan transformasi digital dan pengembangan SDM)
 
 ## Buying Group Hypothesis
-| Peran | Nama/Jabatan | Confidence |
+| Peran | Nama | Status |
 |---|---|---|
-| Economic Buyer | Direktur Utama | [V] |
-| Technical Evaluator | GM Learning/Pusdiklat | [V] |
-| Champion Internal | Manager L&D | [U] |
+| Economic Buyer | Direktur Utama |  |
+| Technical Evaluator | GM Learning/Pusdiklat |  |
+| Champion Internal | Manager L&D |  |
 
 ## Trigger Events
 1. Restrukturisasi perusahaan untuk meningkatkan efisiensi dan produktivitas.
@@ -61,9 +52,9 @@ Breakdown:
 3. Perubahan direktur utama atau direktur SDM yang dapat mempengaruhi keputusan strategis perusahaan.
 
 ## Berita & Sinyal Terbaru
-* PT Dok dan Perkapalan Kodja Bahari (Persero) meluncurkan program pelatihan untuk meningkatkan kemampuan karyawan (2023)
-* Perusahaan ini berencana meningkatkan investasi di bidang teknologi dan inovasi (2024)
-* PT Dok dan Perkapalan Kodja Bahari (Persero) memiliki visi untuk menjadi pemain utama di industri maritim dan logistik di Indonesia dan Asia Tenggara (2025)
+- PT Dok dan Perkapalan Kodja Bahari (Persero) meluncurkan program pelatihan untuk meningkatkan kemampuan karyawan (2023)
+- Perusahaan ini berencana meningkatkan investasi di bidang teknologi dan inovasi (2024)
+- PT Dok dan Perkapalan Kodja Bahari (Persero) memiliki visi untuk menjadi pemain utama di industri maritim dan logistik di Indonesia dan Asia Tenggara (2025)
 
 ## Recommended Approach
 **Take-over**
@@ -80,10 +71,10 @@ Pilot suggestion: Melakukan pilot project untuk mengembangkan program pelatihan 
 5. Apa rencana strategis perusahaan untuk meningkatkan kemampuan dan pengetahuan karyawan dalam 5 tahun ke depan?
 
 ## Sumber
-* Search Results: PT Dok dan Perkapalan Kodja Bahari (Persero) - Wikipedia
-* Search Results: PT Dok dan Perkapalan Kodja Bahari (Persero) - Situs Resmi
-* PP No.15/2025: Peraturan Pemerintah No. 15 Tahun 2025 tentang Pengembangan Sumber Daya Manusia
+- Search Results: PT Dok dan Perkapalan Kodja Bahari (Persero) - Wikipedia
+- Search Results: PT Dok dan Perkapalan Kodja Bahari (Persero) - Situs Resmi
+- PP No.15/2025: Peraturan Pemerintah No. 15 Tahun 2025 tentang Pengembangan Sumber Daya Manusia
 
 ---
 
-*[← Kembali ke Tier 2 Overview](index.md) · [📊 Pipeline Dashboard](../dashboard.md)*
+[← Kembali ke Tier 2](index.md) · [Pipeline Dashboard](../dashboard.md)

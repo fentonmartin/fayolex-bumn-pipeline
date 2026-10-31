@@ -1,17 +1,7 @@
-[🏠 Beranda](../index.md) › [📋 Tier 2](index.md) › Industri Telekomunikasi Indonesia
-
----
-
 # PT Industri Telekomunikasi Indonesia (Persero)
 
-!!! abstract "Ringkasan Cepat"
-    | | |
-    |---|---|
-    | **Priority Score** | 9 |
-    | **Tier** | Tier 2 — Follow-up |
-    | **Danantara** | ✅ Ya (PP No.15/2025) |
-    | **Status LMS** | Sedang mengembangkan LMS e-learning |
-    | **Pendekatan** | Take-over |
+!!! tip "Ringkasan Cepat"
+    **Priority Score:** 9 | **Tier:** Tier 2 — Follow-up | **Danantara:** ✅ Ya (PP No.15/2025) | **Status LMS:** Sedang mengembangkan LMS e-learning | **Pendekatan:** Take-over
 
 ---
 
@@ -19,22 +9,23 @@
 PT Industri Telekomunikasi Indonesia (Persero) atau PT INTI adalah perusahaan BUMN yang bergerak di bidang industri telekomunikasi dengan jumlah karyawan sekitar 1.341 orang pada tahun 2022. Perusahaan ini memiliki visi untuk menjadi perusahaan telekomunikasi yang terdepan dan berkelanjutan di Indonesia. Fayolex harus prioritaskan ini sekarang karena PT INTI sedang mengembangkan LMS e-learning corporate university platform untuk meningkatkan kemampuan dan pengetahuan karyawan, serta memiliki strategi human capital 2025 untuk meningkatkan kemampuan karyawan dan kinerja perusahaan.
 
 ## Account Snapshot
-| Field | Nilai | Label | Sumber |
-|---|---|---|---|
-| Karyawan | 1.341 | [V] | Search Results |
-| Sektor | Industri Telekomunikasi | [V] | Search Results |
-| Danantara | ✅ Ya (PP No.15/2025) | [V] | PP No.15/2025 |
-| LMS Status | Sedang mengembangkan LMS e-learning | [V] | Search Results |
-| Corporate University | Tidak ada informasi | [U] | - |
-| Direktur SDM / HC | Tidak ada informasi | [U] | - |
-| Budget SDM Signal | Tidak ada informasi | [U] | - |
-| Website | Tidak ada informasi | [U] | - |
+| Field | Data |
+|---|---|
+| **Karyawan** | 1.341 |
+| **Sektor** | Industri Telekomunikasi |
+| **Danantara** | ✅ Ya (PP No.15/2025) |
+| **LMS Status** | Sedang mengembangkan LMS e-learning |
+| **Corporate University** | Tidak ada informasi |
+| **Direktur SDM / HC** | Tidak ada informasi |
+| **Budget SDM Signal** | Tidak ada informasi |
+| **Website** | Tidak ada informasi |
 
 ## SDM & Learning Landscape
 PT INTI memiliki strategi human capital 2025 untuk meningkatkan kemampuan karyawan dan kinerja perusahaan. Perusahaan ini juga sedang mengembangkan LMS e-learning corporate university platform untuk meningkatkan kemampuan dan pengetahuan karyawan. Namun, tidak ada informasi tentang program SDM, training, reskilling, pengembangan karyawan lainnya.
 
 ## LMS Status & Opportunity
-**Status:** Take-over potential
+!!! success "LMS Status"
+    Take-over potential
 
 PT INTI sedang mengembangkan LMS e-learning corporate university platform, namun tidak ada informasi tentang platform yang dipakai. Fayolex dapat mengisi celah 70:30:10 dengan menawarkan solusi LMS yang lebih komprehensif dan efektif.
 
@@ -50,11 +41,11 @@ Breakdown:
 - Penalti: 0
 
 ## Buying Group Hypothesis
-| Peran | Nama/Jabatan | Confidence |
+| Peran | Nama | Status |
 |---|---|---|
-| Economic Buyer | Direktur Utama | [V] |
-| Technical Evaluator | GM Learning/Pusdiklat | [U] |
-| Champion Internal | Manager L&D | [U] |
+| Economic Buyer | Direktur Utama |  |
+| Technical Evaluator | GM Learning/Pusdiklat |  |
+| Champion Internal | Manager L&D |  |
 
 ## Trigger Events
 1. Pengembangan LMS e-learning corporate university platform
@@ -62,8 +53,8 @@ Breakdown:
 3. Perubahan direktur atau kepemimpinan perusahaan
 
 ## Berita & Sinyal Terbaru
-* PT INTI sedang mengembangkan LMS e-learning corporate university platform (2024)
-* PT INTI memiliki strategi human capital 2025 untuk meningkatkan kemampuan karyawan dan kinerja perusahaan (2025)
+- PT INTI sedang mengembangkan LMS e-learning corporate university platform (2024)
+- PT INTI memiliki strategi human capital 2025 untuk meningkatkan kemampuan karyawan dan kinerja perusahaan (2025)
 
 ## Recommended Approach
 **Take-over**
@@ -80,9 +71,9 @@ Pilot suggestion: Mengembangkan program pelatihan untuk karyawan PT INTI dengan 
 5. Apa yang menjadi roadmap transformasi PT INTI dalam beberapa tahun ke depan?
 
 ## Sumber
-* Search Results: PT Industri Telekomunikasi Indonesia (Persero)
-* PP No.15/2025: Pembentukan PT Danantara Holding sebagai induk perusahaan BUMN di bidang teknologi dan telekomunikasi.
+- Search Results: PT Industri Telekomunikasi Indonesia (Persero)
+- PP No.15/2025: Pembentukan PT Danantara Holding sebagai induk perusahaan BUMN di bidang teknologi dan telekomunikasi.
 
 ---
 
-*[← Kembali ke Tier 2 Overview](index.md) · [📊 Pipeline Dashboard](../dashboard.md)*
+[← Kembali ke Tier 2](index.md) · [Pipeline Dashboard](../dashboard.md)

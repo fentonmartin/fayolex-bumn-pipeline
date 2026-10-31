@@ -1,71 +1,79 @@
-# 🎯 Tier 1 — Prioritas Utama
+---
+title: Tier 1 — Prioritas Utama
+---
 
-BUMN dengan **peluang terbesar dan sinyal beli terkuat**. Fokuskan energi penjualan di sini.
+# Tier 1 — Prioritas Utama
+
+Enam BUMN dengan peluang terbesar dan sinyal beli terkuat. Fokuskan energi penjualan di sini terlebih dahulu.
 
 !!! success "Apa itu Tier 1?"
     BUMN Tier 1 dipilih berdasarkan kombinasi: ukuran SDM besar, budget learning yang kuat, status LMS yang memungkinkan masuk (Greenfield atau ripe for take-over), dan adanya trigger events yang aktif saat ini.
 
-**Total: 6 BUMN** | Diurutkan berdasarkan priority score
+**Total: 6 BUMN** — Diurutkan berdasarkan priority score
 
 ---
 
-## Daftar Tier 1
-
 <div class="grid cards" markdown>
 
--   ### [Kereta Api Indonesia](tier1/kereta-api-indonesia.md)
+-   **Pegadaian** · Score 8/10
 
-    **Score: 8/10** · Danantara: ✅ Ya
+    ---
 
-    PT Kereta Api Indonesia (Persero) (KAI) adalah operator kereta api milik negara terbesar di Indonesia dengan **29.707 karyawan** (2024) dan jaringan operasional yang mencakup seluruh Jawa dan Sumatera...
+    **12.530 karyawan** · Take-over (iLeads) · Danantara ❌
 
-    [:octicons-arrow-right-24: Baca Brief Lengkap](kereta-api-indonesia.md)
+    Direktur HC baru Juli 2025 — 100 hari pertama adalah window terbaik. Platform iLeads sedang dievaluasi dan siap diganti.
 
+    [:octicons-arrow-right-24: Baca Brief](pegadaian.md)
 
--   ### [Pegadaian](tier1/pegadaian.md)
+-   **KAI** · Score 8/10
 
-    **Score: 8/10** · Danantara: ❌ Tidak
+    ---
 
-    PT Pegadaian (Persero) adalah lembaga keuangan BUMN tertua di Indonesia (berdiri 1901) dengan **12.530 karyawan tetap** (31 Des 2024) plus 21.000 outsourcing dan 4.700 BPO — dan yang paling penting: *...
+    **29.707 karyawan** · Greenfield · Danantara ✅
 
-    [:octicons-arrow-right-24: Baca Brief Lengkap](pegadaian.md)
+    Belum ada corporate university terstandarisasi. SAP Training dipakai tapi bukan LXP. Safety training reguler menciptakan recurring demand.
 
+    [:octicons-arrow-right-24: Baca Brief](kereta-api-indonesia.md)
 
--   ### [Bank Syariah Indonesia](tier1/bsi.md)
+-   **BSI** · Score 8/10
 
-    **Score: 8/10** · Danantara: ✅ Ya
+    ---
 
-    PT Bank Syariah Indonesia Tbk (BSI) adalah bank syariah terbesar di Indonesia — lahir dari merger BNI Syariah, Mandiri Syariah, dan BRI Syariah pada Februari 2021. BSI memiliki **17.234 karyawan** (pe...
+    **17.234 karyawan** · Greenfield/Take-over · Danantara ✅
 
-    [:octicons-arrow-right-24: Baca Brief Lengkap](bsi.md)
+    Bank syariah terbesar Indonesia, lahir dari merger 2021. Learning landscape masih berkembang — butuh unified platform. Compliance syariah = recurring training.
 
+    [:octicons-arrow-right-24: Baca Brief](bsi.md)
 
--   ### [Bank Rakyat Indonesia](tier1/bank-rakyat-indonesia.md)
+-   **BRI** · Score 7/10
 
-    **Score: 7/10** · Danantara: ✅ Ya
+    ---
 
-    PT Bank Rakyat Indonesia (Persero) Tbk (BRI) adalah bank terbesar Indonesia berdasarkan aset, dengan **81.848 karyawan** (per 31 Desember 2024) dan jaringan dari pusat kota hingga desa terpencil. BRI...
+    **81.848 karyawan** · Content Partner · Danantara ✅
 
-    [:octicons-arrow-right-24: Baca Brief Lengkap](bank-rakyat-indonesia.md)
+    LMS BRICU sudah mature (EFMD CLIP). Pendekatan: content dan methodology partner, bukan LMS replacement. Jaringan terluas Indonesia — butuh content lokal berkualitas.
 
+    [:octicons-arrow-right-24: Baca Brief](bank-rakyat-indonesia.md)
 
--   ### [Pertamina](tier1/pertamina.md)
+-   **Pertamina** · Score 7/10
 
-    **Score: 7/10** · Danantara: ✅ Ya
+    ---
 
-    PT Pertamina (Persero) adalah perusahaan energi nasional terbesar di Indonesia (holding sejak 2020, 6 sub-holding) dengan **43.998 karyawan** di level grup (2024), ditambah 70.917 non-employee workers...
+    **43.998 karyawan** · Methodology Partner · Danantara ✅
 
-    [:octicons-arrow-right-24: Baca Brief Lengkap](pertamina.md)
+    PCU mature (EFMD CLIP). Transformasi HC 5.0 aktif. Entry point: methodology partner untuk program HC 5.0 — bukan LMS replacement.
 
+    [:octicons-arrow-right-24: Baca Brief](pertamina.md)
 
--   ### [PLN](tier1/pln.md)
+-   **PLN** · Score 7/10
 
-    **Score: 7/10** · Danantara: ✅ Ya
+    ---
 
-    PT PLN (Persero) adalah perusahaan listrik negara terbesar di Indonesia dengan **51.259 karyawan tetap** (Q1 2024). PLN memiliki **PLN Corporate University (PLNCU)** yang established sejak 2012 dan ba...
+    **51.259 karyawan** · Content Partner · Danantara ✅
 
-    [:octicons-arrow-right-24: Baca Brief Lengkap](pln.md)
+    PLNCU established sejak 2012, EFMD CLIP re-akreditasi Juni 2026. Entry point: EBT reskilling 1.700 karyawan dan CORE Hub baru. Content + methodology partner.
 
+    [:octicons-arrow-right-24: Baca Brief](pln.md)
 
 </div>
 
@@ -73,14 +81,13 @@ BUMN dengan **peluang terbesar dan sinyal beli terkuat**. Fokuskan energi penjua
 
 ## Ringkasan Cepat
 
-| Nama BUMN | Score | Danantara | Pendekatan |
-|-----------|-------|-----------|------------|
-| [Kereta Api Indonesia](kereta-api-indonesia.md) | 8/10 | ✅ Ya | Greenfield — Methodology & Platform Partner |
-| [Pegadaian](pegadaian.md) | 8/10 | ❌ Tidak | Take-over / Upgrade (iLeads → LXP) |
-| [Bank Syariah Indonesia](bsi.md) | 8/10 | ✅ Ya | Greenfield — Platform & Methodology Partner |
-| [Bank Rakyat Indonesia](bank-rakyat-indonesia.md) | 7/10 | ✅ Ya | Content & Methodology Partner (bukan LMS repl... |
-| [Pertamina](pertamina.md) | 7/10 | ✅ Ya | HC 5.0 Methodology Partner (bukan LMS replace... |
-| [PLN](pln.md) | 7/10 | ✅ Ya | Content & Methodology Partner untuk EBT Reski... |
+| Nama BUMN | Score | LMS Status | Danantara | Pendekatan |
+|---|---|---|---|---|
+| [Pegadaian](pegadaian.md) | 8/10 | iLeads (take-over) | ❌ Tidak | Take-over / Upgrade ke LXP |
+| [KAI](kereta-api-indonesia.md) | 8/10 | Greenfield | ✅ Ya | Methodology & Platform Partner |
+| [BSI](bsi.md) | 8/10 | Greenfield/berkembang | ✅ Ya | Platform & Methodology Partner |
+| [BRI](bank-rakyat-indonesia.md) | 7/10 | BRICU mature | ✅ Ya | Content & Methodology Partner |
+| [Pertamina](pertamina.md) | 7/10 | PCU mature | ✅ Ya | HC 5.0 Methodology Partner |
+| [PLN](pln.md) | 7/10 | PLNCU mature | ✅ Ya | EBT Content & Methodology Partner |
 
-
-*[Kembali ke Dashboard](../dashboard.md)*
+[Kembali ke Dashboard](../dashboard.md)

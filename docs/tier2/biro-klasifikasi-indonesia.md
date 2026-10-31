@@ -1,17 +1,7 @@
-[🏠 Beranda](../index.md) › [📋 Tier 2](index.md) › Biro Klasifikasi Indonesia
-
----
-
 # PT Biro Klasifikasi Indonesia (Persero)
 
-!!! abstract "Ringkasan Cepat"
-    | | |
-    |---|---|
-    | **Priority Score** | 8/10 |
-    | **Tier** | Tier 2 — Follow-up |
-    | **Danantara** | ✅ Ya (PP No.15/2025) |
-    | **Status LMS** | Belum ada LMS yang jelas |
-    | **Pendekatan** | Greenfield |
+!!! tip "Ringkasan Cepat"
+    **Priority Score:** 8/10 | **Tier:** Tier 2 — Follow-up | **Danantara:** ✅ Ya (PP No.15/2025) | **Status LMS:** Belum ada LMS yang jelas | **Pendekatan:** Greenfield
 
 ---
 
@@ -19,22 +9,23 @@
 PT Biro Klasifikasi Indonesia (Persero) adalah perusahaan BUMN yang bergerak di bidang klasifikasi dan sertifikasi kapal dengan jumlah karyawan sekitar 500-700 orang. Perusahaan ini sedang melakukan transformasi digital dan memiliki rencana strategis untuk meningkatkan kemampuan SDM. Fayolex harus prioritaskan ini karena adanya signal SDM yang kuat, transformasi digital yang sedang berlangsung, dan potensi take-over LMS yang ada.
 
 ## Account Snapshot
-| Field | Nilai | Label | Sumber |
-|---|---|---|---|
-| Karyawan | 500-700 | [V] | Laporan Tahunan 2024 |
-| Sektor | Klasifikasi dan Sertifikasi Kapal | [V] | Situs Web Resmi |
-| Danantara | ✅ Ya (PP No.15/2025) | [V] | PP No.15/2025 |
-| LMS Status | Belum ada LMS yang jelas | [I] | Tidak ditemukan informasi tentang LMS |
-| Corporate University | Tidak ada informasi | [U] | Tidak ditemukan informasi |
-| Direktur SDM / HC | Tidak ada informasi | [U] | Tidak ditemukan informasi |
-| Budget SDM Signal | Ada signal anggaran untuk SDM | [I] | Rencana Strategis 2024-2025 |
-| Website | https://www.bki.co.id/ | [V] | Situs Web Resmi |
+| Field | Data |
+|---|---|
+| **Karyawan** | 500-700 |
+| **Sektor** | Klasifikasi dan Sertifikasi Kapal |
+| **Danantara** | ✅ Ya (PP No.15/2025) |
+| **LMS Status** | Belum ada LMS yang jelas |
+| **Corporate University** | Tidak ada informasi |
+| **Direktur SDM / HC** | Tidak ada informasi |
+| **Budget SDM Signal** | Ada signal anggaran untuk SDM |
+| **Website** | https://www.bki.co.id/ |
 
 ## SDM & Learning Landscape
 PT Biro Klasifikasi Indonesia (Persero) memiliki rencana strategis untuk meningkatkan kemampuan SDM, termasuk pelatihan dan pengembangan kompetensi karyawan. Perusahaan ini juga berencana meningkatkan kemampuan karyawan dalam bidang digital, seperti data analytics, artificial intelligence, dan cybersecurity.
 
 ## LMS Status & Opportunity
-**Status:** Greenfield
+!!! success "LMS Status"
+    Greenfield
 
 PT Biro Klasifikasi Indonesia (Persero) belum memiliki LMS yang jelas, sehingga ada peluang bagi Fayolex untuk mengisi kebutuhan ini. Dengan metode 70:30:10, Fayolex dapat membantu perusahaan meningkatkan kemampuan karyawan dan meningkatkan kualitas layanan.
 
@@ -49,11 +40,11 @@ Breakdown:
 - Transformasi aktif: +1 (sedang melakukan transformasi digital)
 
 ## Buying Group Hypothesis
-| Peran | Nama/Jabatan | Confidence |
+| Peran | Nama | Status |
 |---|---|---|
-| Economic Buyer | Direktur Utama | [V] |
-| Technical Evaluator | GM Learning/Pusdiklat | [I] |
-| Champion Internal | Manager L&D | [U] |
+| Economic Buyer | Direktur Utama |  |
+| Technical Evaluator | GM Learning/Pusdiklat |  |
+| Champion Internal | Manager L&D |  |
 
 ## Trigger Events
 1. Transformasi digital yang sedang berlangsung
@@ -61,9 +52,9 @@ Breakdown:
 3. Perubahan direktur atau jabatan lainnya
 
 ## Berita & Sinyal Terbaru
-* PT Biro Klasifikasi Indonesia (Persero) meluncurkan program pelatihan untuk meningkatkan kemampuan karyawan (2024)
-* Perusahaan ini berencana meningkatkan kemampuan karyawan dalam bidang digital (2024)
-* PT Biro Klasifikasi Indonesia (Persero) menjadi bagian dari Danantara Holding 2025 (2025)
+- PT Biro Klasifikasi Indonesia (Persero) meluncurkan program pelatihan untuk meningkatkan kemampuan karyawan (2024)
+- Perusahaan ini berencana meningkatkan kemampuan karyawan dalam bidang digital (2024)
+- PT Biro Klasifikasi Indonesia (Persero) menjadi bagian dari Danantara Holding 2025 (2025)
 
 ## Recommended Approach
 **Greenfield**
@@ -80,11 +71,11 @@ Pilot suggestion: Pelatihan untuk 100 karyawan sebagai pilot project
 5. Apa kebutuhan spesifik PT Biro Klasifikasi Indonesia (Persero) dalam hal LMS dan pelatihan?
 
 ## Sumber
-* Laporan Tahunan 2024 PT Biro Klasifikasi Indonesia (Persero)
-* Situs Web Resmi PT Biro Klasifikasi Indonesia (Persero)
-* PP No.15/2025 tentang Danantara Holding 2025
-* Berita dan artikel tentang PT Biro Klasifikasi Indonesia (Persero)
+- Laporan Tahunan 2024 PT Biro Klasifikasi Indonesia (Persero)
+- Situs Web Resmi PT Biro Klasifikasi Indonesia (Persero)
+- PP No.15/2025 tentang Danantara Holding 2025
+- Berita dan artikel tentang PT Biro Klasifikasi Indonesia (Persero)
 
 ---
 
-*[← Kembali ke Tier 2 Overview](index.md) · [📊 Pipeline Dashboard](../dashboard.md)*
+[← Kembali ke Tier 2](index.md) · [Pipeline Dashboard](../dashboard.md)

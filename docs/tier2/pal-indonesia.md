@@ -1,17 +1,7 @@
-[🏠 Beranda](../index.md) › [📋 Tier 2](index.md) › PAL Indonesia
-
----
-
 # PT PAL Indonesia (Persero)
 
-!!! abstract "Ringkasan Cepat"
-    | | |
-    |---|---|
-    | **Priority Score** | 8 |
-    | **Tier** | Tier 2 — Follow-up |
-    | **Danantara** | ❌ Tidak / [U] |
-    | **Status LMS** | Ada platform LMS e-learning |
-    | **Pendekatan** | Take-over |
+!!! tip "Ringkasan Cepat"
+    **Priority Score:** 8 | **Tier:** Tier 2 — Follow-up | **Danantara:** ❌ Tidak | **Status LMS:** Ada platform LMS e-learning | **Pendekatan:** Take-over
 
 ---
 
@@ -19,22 +9,23 @@
 PT PAL Indonesia (Persero) adalah perusahaan BUMN yang bergerak di bidang industri pertahanan dan maritim dengan sekitar 2.500 karyawan. Mereka memiliki visi untuk menjadi salah satu industri pertahanan dan maritim terkemuka di Asia Tenggara pada tahun 2025. Fayolex harus prioritaskan ini sekarang karena PT PAL Indonesia sedang mengembangkan platform LMS e-learning corporate university untuk meningkatkan kemampuan dan pengetahuan karyawan, serta memiliki program pengembangan SDM yang bertujuan meningkatkan kemampuan dan kompetensi karyawan hingga tahun 2025.
 
 ## Account Snapshot
-| Field | Nilai | Label | Sumber |
-|---|---|---|---|
-| Karyawan | 2.500 | [V] | Laporan tahunan 2023 |
-| Sektor | Industri pertahanan dan maritim | [V] | Profil perusahaan |
-| Danantara | ❌ Tidak | [U] | PP No.15/2025 |
-| LMS Status | Ada platform LMS e-learning | [V] | Berita perusahaan |
-| Corporate University | Ada | [V] | Berita perusahaan |
-| Direktur SDM / HC | Tidak diketahui | [U] | - |
-| Budget SDM Signal | Ada signal anggaran | [I] | Rencana strategis perusahaan |
-| Website | https://www.pal.co.id/ | [V] | - |
+| Field | Data |
+|---|---|
+| **Karyawan** | 2.500 |
+| **Sektor** | Industri pertahanan dan maritim |
+| **Danantara** | ❌ Tidak |
+| **LMS Status** | Ada platform LMS e-learning |
+| **Corporate University** | Ada |
+| **Direktur SDM / HC** | Tidak diketahui |
+| **Budget SDM Signal** | Ada signal anggaran |
+| **Website** | https://www.pal.co.id/ |
 
 ## SDM & Learning Landscape
 PT PAL Indonesia memiliki program pengembangan SDM yang bertujuan meningkatkan kemampuan dan kompetensi karyawan hingga tahun 2025. Mereka juga memiliki platform LMS e-learning corporate university untuk meningkatkan kemampuan dan pengetahuan karyawan. Perusahaan ini berfokus pada pengembangan SDM melalui pelatihan dan pendidikan untuk meningkatkan kemampuan dan kompetensi karyawan dalam menghadapi era digital.
 
 ## LMS Status & Opportunity
-**Status:** Take-over potential
+!!! success "LMS Status"
+    Take-over potential
 
 PT PAL Indonesia sudah memiliki platform LMS e-learning, namun masih ada celah untuk Fayolex memasuki pasar ini dengan menawarkan solusi yang lebih komprehensif dan efektif. Fayolex dapat membantu perusahaan ini meningkatkan kemampuan dan pengetahuan karyawan dengan menggunakan metode 70:30:10.
 
@@ -50,11 +41,11 @@ Breakdown:
 - Penalti: 0 (tidak ada)
 
 ## Buying Group Hypothesis
-| Peran | Nama/Jabatan | Confidence |
+| Peran | Nama | Status |
 |---|---|---|
-| Economic Buyer | Direktur Utama | [V] |
-| Technical Evaluator | GM Learning/Pusdiklat | [V] |
-| Champion Internal | Manager L&D | [U] |
+| Economic Buyer | Direktur Utama |  |
+| Technical Evaluator | GM Learning/Pusdiklat |  |
+| Champion Internal | Manager L&D |  |
 
 ## Trigger Events
 1. Rencana strategis perusahaan untuk meningkatkan kemampuan dan kompetensi karyawan hingga tahun 2025.
@@ -62,8 +53,8 @@ Breakdown:
 3. Perubahan direktur utama atau GM Learning/Pusdiklat.
 
 ## Berita & Sinyal Terbaru
-* PT PAL Indonesia berencana meningkatkan kemampuan digital dengan mengembangkan sistem informasi terintegrasi untuk meningkatkan efisiensi dan produktivitas. (2024)
-* Perusahaan ini berfokus pada pengembangan SDM melalui pelatihan dan pendidikan untuk meningkatkan kemampuan dan kompetensi karyawan dalam menghadapi era digital. (2024)
+- PT PAL Indonesia berencana meningkatkan kemampuan digital dengan mengembangkan sistem informasi terintegrasi untuk meningkatkan efisiensi dan produktivitas. (2024)
+- Perusahaan ini berfokus pada pengembangan SDM melalui pelatihan dan pendidikan untuk meningkatkan kemampuan dan kompetensi karyawan dalam menghadapi era digital. (2024)
 
 ## Recommended Approach
 **Take-over**
@@ -80,11 +71,11 @@ Pilot suggestion: Mengembangkan program pelatihan untuk karyawan dengan mengguna
 5. Apa rencana perusahaan ini untuk meningkatkan kemampuan dan pengetahuan karyawan dalam 2-3 tahun ke depan?
 
 ## Sumber
-* Laporan tahunan 2023 PT PAL Indonesia
-* Profil perusahaan PT PAL Indonesia
-* Berita perusahaan PT PAL Indonesia
-* PP No.15/2025
+- Laporan tahunan 2023 PT PAL Indonesia
+- Profil perusahaan PT PAL Indonesia
+- Berita perusahaan PT PAL Indonesia
+- PP No.15/2025
 
 ---
 
-*[← Kembali ke Tier 2 Overview](index.md) · [📊 Pipeline Dashboard](../dashboard.md)*
+[← Kembali ke Tier 2](index.md) · [Pipeline Dashboard](../dashboard.md)

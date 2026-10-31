@@ -1,17 +1,7 @@
-[🏠 Beranda](../index.md) › [📋 Tier 2](index.md) › Perum Perumnas
-
----
-
 # Perum Perumnas
 
-!!! abstract "Ringkasan Cepat"
-    | | |
-    |---|---|
-    | **Priority Score** | 8 |
-    | **Tier** | Tier 2 — Follow-up |
-    | **Danantara** | ❌ Tidak / [U] |
-    | **Status LMS** | Ada platform LMS e-learning |
-    | **Pendekatan** | Take-over |
+!!! tip "Ringkasan Cepat"
+    **Priority Score:** 8 | **Tier:** Tier 2 — Follow-up | **Danantara:** ❌ Tidak | **Status LMS:** Ada platform LMS e-learning | **Pendekatan:** Take-over
 
 ---
 
@@ -19,22 +9,23 @@
 Perum Perumnas adalah perusahaan negara yang bergerak di bidang perumahan dan pengembangan kota dengan jumlah karyawan yang signifikan, meskipun data tahun 2024 tidak dapat dipastikan. Perusahaan ini memiliki visi untuk menjadi perusahaan perumahan dan pengembangan kota yang terkemuka di Indonesia. Fayolex harus prioritaskan ini karena Perum Perumnas berencana meningkatkan kemampuan digital karyawannya dan mengembangkan platform LMS e-learning corporate university-nya, yang membuka peluang bagi Fayolex untuk menyediakan solusi LMS yang efektif.
 
 ## Account Snapshot
-| Field | Nilai | Label | Sumber |
-|---|---|---|---|
-| Karyawan | >10K | [V] | Laporan Tahunan Perum Perumnas |
-| Sektor | Perumahan dan Pengembangan Kota | [V] | Website Perum Perumnas |
-| Danantara | ❌ Tidak | [V] | PP No.15/2025 |
-| LMS Status | Ada platform LMS e-learning | [V] | Laporan Tahunan Perum Perumnas |
-| Corporate University | Ada | [V] | Laporan Tahunan Perum Perumnas |
-| Direktur SDM / HC | Tidak diketahui | [U] | - |
-| Budget SDM Signal | Ada signal anggaran | [I] | Rencana Strategis Perum Perumnas |
-| Website | https://www.perumnas.com/ | [V] | - |
+| Field | Data |
+|---|---|
+| **Karyawan** | >10K |
+| **Sektor** | Perumahan dan Pengembangan Kota |
+| **Danantara** | ❌ Tidak |
+| **LMS Status** | Ada platform LMS e-learning |
+| **Corporate University** | Ada |
+| **Direktur SDM / HC** | Tidak diketahui |
+| **Budget SDM Signal** | Ada signal anggaran |
+| **Website** | https://www.perumnas.com/ |
 
 ## SDM & Learning Landscape
 Perum Perumnas memiliki program SDM yang fokus pada pengembangan kompetensi, pelatihan, dan pengembangan karir karyawan. Perusahaan ini juga berencana meningkatkan kemampuan digital karyawannya untuk meningkatkan efisiensi dan produktivitas. Namun, tidak ada informasi yang jelas tentang budget SDM yang dialokasikan.
 
 ## LMS Status & Opportunity
-**Status:** Take-over potential
+!!! success "LMS Status"
+    Take-over potential
 
 Perum Perumnas sudah memiliki platform LMS e-learning, namun masih ada peluang bagi Fayolex untuk menyediakan solusi LMS yang lebih efektif dan efisien. Dengan metodologi 70:30:10, Fayolex dapat membantu Perum Perumnas meningkatkan kemampuan dan kinerja karyawannya.
 
@@ -49,11 +40,11 @@ Breakdown:
 - Transformasi aktif: +1 (berencana meningkatkan kemampuan digital)
 
 ## Buying Group Hypothesis
-| Peran | Nama/Jabatan | Confidence |
+| Peran | Nama | Status |
 |---|---|---|
-| Economic Buyer | Direktur Utama Perum Perumnas | [V] |
-| Technical Evaluator | Kepala Divisi Pengembangan SDM | [I] |
-| Champion Internal | Manager L&D | [U] |
+| Economic Buyer | Direktur Utama Perum Perumnas |  |
+| Technical Evaluator | Kepala Divisi Pengembangan SDM |  |
+| Champion Internal | Manager L&D |  |
 
 ## Trigger Events
 1. Rencana Strategis Perum Perumnas 2025
@@ -61,8 +52,8 @@ Breakdown:
 3. Meningkatkan kemampuan digital karyawannya
 
 ## Berita & Sinyal Terbaru
-* Perum Perumnas berencana meningkatkan kemampuan digital karyawannya (2024)
-* Perum Perumnas meluncurkan platform LMS e-learning corporate university (2023)
+- Perum Perumnas berencana meningkatkan kemampuan digital karyawannya (2024)
+- Perum Perumnas meluncurkan platform LMS e-learning corporate university (2023)
 
 ## Recommended Approach
 **Take-over**
@@ -79,10 +70,10 @@ Pilot suggestion: Mengembangkan program pelatihan digital untuk karyawan Perum P
 5. Bagaimana Perum Perumnas berencana mengukur keberhasilan program pengembangan SDM-nya?
 
 ## Sumber
-* Laporan Tahunan Perum Perumnas 2023
-* Website Perum Perumnas
-* Berita online tentang Perum Perumnas
+- Laporan Tahunan Perum Perumnas 2023
+- Website Perum Perumnas
+- Berita online tentang Perum Perumnas
 
 ---
 
-*[← Kembali ke Tier 2 Overview](index.md) · [📊 Pipeline Dashboard](../dashboard.md)*
+[← Kembali ke Tier 2](index.md) · [Pipeline Dashboard](../dashboard.md)

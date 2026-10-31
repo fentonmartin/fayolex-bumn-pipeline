@@ -1,17 +1,7 @@
-[🏠 Beranda](../index.md) › [📋 Tier 2](index.md) › Angkasa Pura Indonesia
-
----
-
 # PT Angkasa Pura Indonesia (Persero)
 
-!!! abstract "Ringkasan Cepat"
-    | | |
-    |---|---|
-    | **Priority Score** | 7/10 |
-    | **Tier** | Tier 2 — Follow-up |
-    | **Danantara** | ✅ Ya (PP No.15/2025 — masuk via InJourney) |
-    | **Status LMS** | Tidak teridentifikasi platform LMS — kemungkinan Greenfield post-merger |
-    | **Pendekatan** | Greenfield — Post-Merger Learning Standardization |
+!!! tip "Ringkasan Cepat"
+    **Priority Score:** 7/10 | **Tier:** Tier 2 — Follow-up | **Danantara:** ✅ Ya (PP No.15/2025 — masuk via InJourney) | **Status LMS:** Tidak teridentifikasi platform LMS — kemungkinan Greenfield post-merger | **Pendekatan:** Greenfield — Post-Merger Learning Standardization
 
 ---
 
@@ -19,43 +9,23 @@
 PT Angkasa Pura Indonesia (Persero) — juga dikenal sebagai **InJourney Airports** — adalah operator bandara nasional terbesar di Indonesia, hasil merger PT Angkasa Pura I dan PT Angkasa Pura II yang selesai penuh pada 2025. Perusahaan mengelola **37 bandara** dan **~16.000 karyawan** (8.000 organik + ~8.000 kontrak). Direktur Human Capital aktif terbaru adalah **Adi Nugroho** (diangkat Mei 2025); sebelumnya Achmad Syahir (kini Wakil Dirut). Tidak ada referensi LMS modern atau Corporate University — kemungkinan **Greenfield/sangat early stage** karena perusahaan baru merger. Prioritas: assessment standarisasi kompetensi post-merger 16.000 karyawan dari 2 perusahaan berbeda adalah pain point terbesar.
 
 ## Account Snapshot
-| Field | Nilai | Label | Sumber |
-|---|---|---|---|
-| Karyawan | ~16.000 karyawan (8.000 organik + ~8.000 kontrak) post-merger | [V] | Kompas.com, Bisnis.com merger coverage |
-| Sektor | Transportasi Udara / Pengelola Bandara | [V] | Publik |
-| Danantara | ✅ Ya — InJourney (parent) masuk Danantara; API via InJourney holding | [V] | PP No.15/2025, CNBC |
-| LMS Status | Tidak teridentifikasi platform LMS — kemungkinan Greenfield post-merger | [U] | - |
-| Corporate University | Tidak ada Corporate University teridentifikasi — baru merger 2024–2025 | [U] | - |
-| Direktur SDM / HC | **Adi Nugroho** — Direktur Human Capital (diangkat SK Menteri BUMN 16 Mei 2025) | [V] | Bisnis.com, ANTARA |
-| Budget SDM Signal | "SDM masuk 3 pilar InJourney (premise, process, people)" — budget signifikan [I] | [I] | Kompas.com wawancara Achmad Syahir |
-| Website | https://injourneyairports.id | [V] | - |
+| Field | Data |
+|---|---|
+| **Karyawan** | ~16.000 karyawan (8.000 organik + ~8.000 kontrak) post-merger |
+| **Sektor** | Transportasi Udara / Pengelola Bandara |
+| **Danantara** | ✅ Ya — InJourney (parent) masuk Danantara; API via InJourney holding |
+| **LMS Status** | Tidak teridentifikasi platform LMS — kemungkinan Greenfield post-merger |
+| **Corporate University** | Tidak ada Corporate University teridentifikasi — baru merger 2024–2025 |
+| **Direktur SDM / HC** | **Adi Nugroho** — Direktur Human Capital (diangkat SK Menteri BUMN 16 Mei 2025) |
+| **Budget SDM Signal** | "SDM masuk 3 pilar InJourney (premise, process, people)" — budget signifikan |
+| **Website** | https://injourneyairports.id |
 
 ## SDM & Learning Landscape
 **Konteks merger** (kritis untuk memahami landscape):
-- AP I dan AP II bergabung menjadi PT Angkasa Pura Indonesia (InJourney Airports) — proses dimulai Sept 2024, selesai penuh 2025 [V]
-- Syarat merger: **tidak ada PHK** → 16.000 karyawan dari dua perusahaan dengan standar operasional berbeda harus diintegrasikan [V]
-- Mengelola 37 bandara di seluruh Indonesia [V]
-
-**Direktur HC dan strategi SDM (Achmad Syahir, okt 2024 — kini Wakil Dirut)** [V]:
-- Tiga fokus pengembangan SDM: **mindset, technical skill, dan attitude** [V]
-- **Assessment seluruh karyawan** → penempatan berdasarkan hasil assessment [V]
-- **Standarisasi**: AP I dan AP II punya standar operasional berbeda → perlu unified standard [V]
-- **Pengembangan kompetensi individual**: "berdasarkan kebutuhan individu, jadi akan berbeda antara karyawan satu dengan yang lainnya" [V]
-- SDM sebagai **salah satu dari 3 pilar InJourney** → budget tidak main-main [I]
-
-**Direktur baru Mei 2025:**
-- **Direktur Utama**: Muhammad Rizal Pahlevi (SK Menteri BUMN Mei 2025) — gantikan Faik Fahmi [V]
-- **Wakil Dirut**: Achmad Syahir (ex-Direktur HC) [V]
-- **Direktur Human Capital**: **Adi Nugroho** [V]
-- Direktur Keuangan & Manajemen Risiko: Yanindya Bayu Wirawan [V]
-
-**Program learning yang teridentifikasi:**
-- **InJourney Hospitality House**: program pelatihan hospitality untuk komunitas di sekitar bandara (masuk tahun ke-3 di Mandalika, 2025) [V]
-- **Aviation Security (Avsec) Certification**: kemitraan dengan IAS Support untuk sertifikasi Avsec (Oktober 2025) [V]
-- **Risk management learning**: Surat Perintah internal API untuk pelatihan manajemen risiko (November 2025) [V]
-- Tidak ada referensi platform LMS atau LXP yang teridentifikasi [U]
-
-## LMS Status & Opportunity
+- AP I dan AP II bergabung menjadi PT Angkasa Pura Indonesia (InJourney Airports) — proses dimulai Sept 2024, selesai penuh 2025 - Syarat merger: **tidak ada PHK** → 16.000 karyawan dari dua perusahaan dengan standar operasional berbeda harus diintegrasikan - Mengelola 37 bandara di seluruh Indonesia **Direktur HC dan strategi SDM (Achmad Syahir, okt 2024 — kini Wakil Dirut)** :
+- Tiga fokus pengembangan SDM: **mindset, technical skill, dan attitude** - **Assessment seluruh karyawan** → penempatan berdasarkan hasil assessment - **Standarisasi**: AP I dan AP II punya standar operasional berbeda → perlu unified standard - **Pengembangan kompetensi individual**: "berdasarkan kebutuhan individu, jadi akan berbeda antara karyawan satu dengan yang lainnya" - SDM sebagai **salah satu dari 3 pilar InJourney** → budget tidak main-main **Direktur baru Mei 2025:**
+- **Direktur Utama**: Muhammad Rizal Pahlevi (SK Menteri BUMN Mei 2025) — gantikan Faik Fahmi - **Wakil Dirut**: Achmad Syahir (ex-Direktur HC) - **Direktur Human Capital**: **Adi Nugroho** - Direktur Keuangan & Manajemen Risiko: Yanindya Bayu Wirawan **Program learning yang teridentifikasi:**
+- **InJourney Hospitality House**: program pelatihan hospitality untuk komunitas di sekitar bandara (masuk tahun ke-3 di Mandalika, 2025) - **Aviation Security (Avsec) Certification**: kemitraan dengan IAS Support untuk sertifikasi Avsec (Oktober 2025) - **Risk management learning**: Surat Perintah internal API untuk pelatihan manajemen risiko (November 2025) - Tidak ada referensi platform LMS atau LXP yang teridentifikasi ## LMS Status & Opportunity
 **Status: Greenfield — Post-merger learning standardization urgency**
 
 API adalah perusahaan yang baru selesai merger — belum memiliki platform learning terstandar. Ini adalah kondisi paling ideal untuk Fayolex: kebutuhan nyata + belum ada incumbent.
@@ -80,19 +50,19 @@ Breakdown:
 Koreksi final: **7/10**
 
 ## Buying Group Hypothesis
-| Peran | Nama/Jabatan | Confidence |
+| Peran | Nama | Status |
 |---|---|---|
-| Economic Buyer | **Adi Nugroho** — Direktur Human Capital (sejak Mei 2025) | [V] jabatan; [U] detail profil |
-| Technical Evaluator | VP Human Capital / Kepala Divisi Learning & Development | [U] nama tidak teridentifikasi |
-| Champion Internal | Achmad Syahir — Wakil Dirut (ex-Direktur HC, sangat paham isu SDM) | [V] jabatan; potensial advocate |
+| Economic Buyer | **Adi Nugroho** — Direktur Human Capital (sejak Mei 2025) | jabatan; detail profil |
+| Technical Evaluator | VP Human Capital / Kepala Divisi Learning & Development | nama tidak teridentifikasi |
+| Champion Internal | Achmad Syahir — Wakil Dirut (ex-Direktur HC, sangat paham isu SDM) | jabatan; potensial advocate |
 
 ## Trigger Events
-1. **Post-merger integration 16.000 karyawan dari AP I + AP II** [V] → Pain point terbesar: dua kultur berbeda, standar berbeda → butuh unified learning & competency framework
-2. **Direktur HC baru — Adi Nugroho (Mei 2025)** [V] → Window peluang: direktur baru kemungkinan ingin establish agenda learning yang jelas
-3. **Assessment seluruh karyawan yang sudah diumumkan** [V] → Setelah assessment → butuh platform learning untuk development berdasarkan hasil assessment
-4. **InJourney Hospitality House program berkembang (masuk tahun ke-3)** [V] → Komitmen investasi SDM jangka panjang yang sudah terpolakan
-5. **37 bandara dikelola** [V] → Skala operasional yang besar = learning harus scalable dan digital-first
-6. **Target bandara internasional 36 bandara (2025)** [V] → Standar layanan internasional = standar kompetensi karyawan yang lebih tinggi → butuh learning yang terstruktur
+1. **Post-merger integration 16.000 karyawan dari AP I + AP II** → Pain point terbesar: dua kultur berbeda, standar berbeda → butuh unified learning & competency framework
+2. **Direktur HC baru — Adi Nugroho (Mei 2025)** → Window peluang: direktur baru kemungkinan ingin establish agenda learning yang jelas
+3. **Assessment seluruh karyawan yang sudah diumumkan** → Setelah assessment → butuh platform learning untuk development berdasarkan hasil assessment
+4. **InJourney Hospitality House program berkembang (masuk tahun ke-3)** → Komitmen investasi SDM jangka panjang yang sudah terpolakan
+5. **37 bandara dikelola** → Skala operasional yang besar = learning harus scalable dan digital-first
+6. **Target bandara internasional 36 bandara (2025)** → Standar layanan internasional = standar kompetensi karyawan yang lebih tinggi → butuh learning yang terstruktur
 
 ## Berita & Sinyal Terbaru
 - **Mei 2025**: SK Menteri BUMN — Muhammad Rizal Pahlevi jadi Dirut baru, Adi Nugroho jadi Direktur HC; Achmad Syahir naik jadi Wakil Dirut [Bisnis.com, ANTARA, 23 Mei 2025]
@@ -126,4 +96,4 @@ Pilot suggestion: Program standarisasi learning untuk 500 frontliner hospitality
 
 ---
 
-*[← Kembali ke Tier 2 Overview](index.md) · [📊 Pipeline Dashboard](../dashboard.md)*
+[← Kembali ke Tier 2](index.md) · [Pipeline Dashboard](../dashboard.md)

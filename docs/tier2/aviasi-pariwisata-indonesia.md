@@ -1,17 +1,7 @@
-[🏠 Beranda](../index.md) › [📋 Tier 2](index.md) › Aviasi Pariwisata Indonesia
-
----
-
 # PT Aviasi Pariwisata Indonesia (Persero)
 
-!!! abstract "Ringkasan Cepat"
-    | | |
-    |---|---|
-    | **Priority Score** | 8/10 |
-    | **Tier** | Tier 2 — Follow-up |
-    | **Danantara** | ✅ Ya (PP No.15/2025) |
-    | **Status LMS** | Ada (Corporate University) |
-    | **Pendekatan** | Take-over |
+!!! tip "Ringkasan Cepat"
+    **Priority Score:** 8/10 | **Tier:** Tier 2 — Follow-up | **Danantara:** ✅ Ya (PP No.15/2025) | **Status LMS:** Ada (Corporate University) | **Pendekatan:** Take-over
 
 ---
 
@@ -19,22 +9,23 @@
 PT Aviasi Pariwisata Indonesia (Persero) adalah perusahaan BUMN yang bergerak di bidang pariwisata dan aviasi dengan jumlah karyawan yang tidak diketahui secara spesifik. Perusahaan ini memiliki platform e-learning Corporate University untuk meningkatkan kemampuan dan pengetahuan karyawan. Fayolex harus memprioritaskan ini karena adanya rencana strategis Danatara Holding 2025 yang bertujuan meningkatkan kinerja dan memperluas bisnis, serta potensi untuk meningkatkan kualitas dan efisiensi proses pembelajaran dengan platform LMS yang lebih baik.
 
 ## Account Snapshot
-| Field | Nilai | Label | Sumber |
-|---|---|---|---|
-| Karyawan | Tidak tersedia | [U] | - |
-| Sektor | Pariwisata dan aviasi | [V] | Search results |
-| Danantara | ✅ Ya (PP No.15/2025) | [V] | PP No.15/2025 |
-| LMS Status | Ada (Corporate University) | [V] | Search results |
-| Corporate University | Ada | [V] | Search results |
-| Direktur SDM / HC | Tidak diketahui | [U] | - |
-| Budget SDM Signal | Tidak diketahui | [U] | - |
-| Website | Tidak diketahui | [U] | - |
+| Field | Data |
+|---|---|
+| **Karyawan** | Tidak tersedia |
+| **Sektor** | Pariwisata dan aviasi |
+| **Danantara** | ✅ Ya (PP No.15/2025) |
+| **LMS Status** | Ada (Corporate University) |
+| **Corporate University** | Ada |
+| **Direktur SDM / HC** | Tidak diketahui |
+| **Budget SDM Signal** | Tidak diketahui |
+| **Website** | Tidak diketahui |
 
 ## SDM & Learning Landscape
 PT Aviasi Pariwisata Indonesia (Persero) memiliki platform e-learning Corporate University untuk meningkatkan kemampuan dan pengetahuan karyawan. Namun, tidak ada informasi lebih lanjut tentang program SDM, training, reskilling, dan pengembangan karyawan.
 
 ## LMS Status & Opportunity
-**Status:** Take-over potential
+!!! success "LMS Status"
+    Take-over potential
 
 Perusahaan ini memiliki platform e-learning Corporate University, namun ada potensi untuk meningkatkan kualitas dan efisiensi proses pembelajaran dengan platform LMS yang lebih baik seperti Fayolex. Metodologi 70:30:10 dari Fayolex dapat membantu meningkatkan kemampuan karyawan dan meningkatkan efisiensi operasional.
 
@@ -50,11 +41,11 @@ Breakdown:
 - Penalti: 0
 
 ## Buying Group Hypothesis
-| Peran | Nama/Jabatan | Confidence |
+| Peran | Nama | Status |
 |---|---|---|
-| Economic Buyer | Direktur Utama | [V] |
-| Technical Evaluator | GM Learning/Pusdiklat | [V] |
-| Champion Internal | Manager L&D | [U] |
+| Economic Buyer | Direktur Utama |  |
+| Technical Evaluator | GM Learning/Pusdiklat |  |
+| Champion Internal | Manager L&D |  |
 
 ## Trigger Events
 1. Rencana strategis Danatara Holding 2025
@@ -62,7 +53,7 @@ Breakdown:
 3. Perubahan direktur atau jabatan penting
 
 ## Berita & Sinyal Terbaru
-* Tidak ada berita terbaru yang relevan
+- Tidak ada berita terbaru yang relevan
 
 ## Recommended Approach
 **Take-over**
@@ -79,9 +70,9 @@ Pilot suggestion: Mengembangkan program pelatihan untuk karyawan dengan mengguna
 5. Bagaimana perusahaan ini melihat potensi kerja sama dengan Fayolex?
 
 ## Sumber
-* Search results tentang PT Aviasi Pariwisata Indonesia (Persero)
-* PP No.15/2025 tentang Danatara Holding 2025
+- Search results tentang PT Aviasi Pariwisata Indonesia (Persero)
+- PP No.15/2025 tentang Danatara Holding 2025
 
 ---
 
-*[← Kembali ke Tier 2 Overview](index.md) · [📊 Pipeline Dashboard](../dashboard.md)*
+[← Kembali ke Tier 2](index.md) · [Pipeline Dashboard](../dashboard.md)

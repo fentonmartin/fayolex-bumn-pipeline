@@ -1,17 +1,7 @@
-[🏠 Beranda](../index.md) › [📋 Tier 2](index.md) › Rajawali Nusantara Indonesia
-
----
-
 # PT Rajawali Nusantara Indonesia (Persero)
 
-!!! abstract "Ringkasan Cepat"
-    | | |
-    |---|---|
-    | **Priority Score** | 9 |
-    | **Tier** | Tier 2 — Follow-up |
-    | **Danantara** | ✅ Ya (PP No.15/2025) |
-    | **Status LMS** | Ada platform e-learning corporate university |
-    | **Pendekatan** | Take-over |
+!!! tip "Ringkasan Cepat"
+    **Priority Score:** 9 | **Tier:** Tier 2 — Follow-up | **Danantara:** ✅ Ya (PP No.15/2025) | **Status LMS:** Ada platform e-learning corporate university | **Pendekatan:** Take-over
 
 ---
 
@@ -19,22 +9,23 @@
 PT Rajawali Nusantara Indonesia (Persero) adalah Badan Usaha Milik Negara (BUMN) yang bergerak di bidang perdagangan dan industri dengan sekitar 1.300 karyawan. Perusahaan ini memiliki platform e-learning corporate university untuk meningkatkan kemampuan dan pengetahuan karyawan. Fayolex harus prioritaskan ini sekarang karena PT Rajawali Nusantara Indonesia (Persero) sedang melakukan transformasi digital dan pengembangan SDM, serta memiliki rencana strategis untuk meningkatkan kinerja dan memperluas bisnisnya hingga tahun 2025.
 
 ## Account Snapshot
-| Field | Nilai | Label | Sumber |
-|---|---|---|---|
-| Karyawan | 1.300 | [V] | Laporan tahunan PT Rajawali Nusantara Indonesia (Persero) |
-| Sektor | Industri dan Perdagangan | [V] | Situs web resmi PT Rajawali Nusantara Indonesia (Persero) |
-| Danantara | ✅ Ya (PP No.15/2025) | [V] | PP No.15/2025 |
-| LMS Status | Ada platform e-learning corporate university | [V] | Laporan tahunan PT Rajawali Nusantara Indonesia (Persero) |
-| Corporate University | Ada | [V] | Laporan tahunan PT Rajawali Nusantara Indonesia (Persero) |
-| Direktur SDM / HC | Tidak ditemukan | [U] | - |
-| Budget SDM Signal | Ada signal anggaran | [I] | Rencana strategis perusahaan |
-| Website | https://www.rajawali-nusantara.co.id/ | [V] | - |
+| Field | Data |
+|---|---|
+| **Karyawan** | 1.300 |
+| **Sektor** | Industri dan Perdagangan |
+| **Danantara** | ✅ Ya (PP No.15/2025) |
+| **LMS Status** | Ada platform e-learning corporate university |
+| **Corporate University** | Ada |
+| **Direktur SDM / HC** | Tidak ditemukan |
+| **Budget SDM Signal** | Ada signal anggaran |
+| **Website** | https://www.rajawali-nusantara.co.id/ |
 
 ## SDM & Learning Landscape
 PT Rajawali Nusantara Indonesia (Persero) memiliki program SDM yang bertujuan untuk meningkatkan kemampuan dan pengetahuan karyawan. Perusahaan ini juga memiliki platform e-learning corporate university untuk mendukung program SDM tersebut.
 
 ## LMS Status & Opportunity
-**Status:** Take-over potential
+!!! success "LMS Status"
+    Take-over potential
 
 PT Rajawali Nusantara Indonesia (Persero) sudah memiliki platform e-learning corporate university, namun masih ada celah untuk Fayolex memasuki pasar ini dengan menawarkan solusi LMS yang lebih komprehensif dan efektif.
 
@@ -49,11 +40,11 @@ Breakdown:
 - Transformasi aktif: +1 (sedang melakukan transformasi digital)
 
 ## Buying Group Hypothesis
-| Peran | Nama/Jabatan | Confidence |
+| Peran | Nama | Status |
 |---|---|---|
-| Economic Buyer | Direktur Utama | [V] |
-| Technical Evaluator | GM Learning/Pusdiklat | [V] |
-| Champion Internal | Manager L&D | [U] |
+| Economic Buyer | Direktur Utama |  |
+| Technical Evaluator | GM Learning/Pusdiklat |  |
+| Champion Internal | Manager L&D |  |
 
 ## Trigger Events
 1. Transformasi digital perusahaan
@@ -61,8 +52,8 @@ Breakdown:
 3. Perubahan kebijakan pemerintah terkait pengembangan SDM di BUMN
 
 ## Berita & Sinyal Terbaru
-* PT Rajawali Nusantara Indonesia (Persero) meluncurkan program transformasi digital untuk meningkatkan efisiensi dan efektifitas operasional (2024)
-* Perusahaan ini juga mengumumkan rencana strategis untuk meningkatkan kinerja dan memperluas bisnisnya hingga tahun 2025 (2024)
+- PT Rajawali Nusantara Indonesia (Persero) meluncurkan program transformasi digital untuk meningkatkan efisiensi dan efektifitas operasional (2024)
+- Perusahaan ini juga mengumumkan rencana strategis untuk meningkatkan kinerja dan memperluas bisnisnya hingga tahun 2025 (2024)
 
 ## Recommended Approach
 **Take-over**
@@ -79,11 +70,11 @@ Pilot suggestion: Melakukan pilot project untuk mengembangkan kompetensi karyawa
 5. Apa rencana perusahaan ini untuk meningkatkan kemampuan dan pengetahuan karyawan di bidang digital?
 
 ## Sumber
-* Laporan tahunan PT Rajawali Nusantara Indonesia (Persero)
-* Situs web resmi PT Rajawali Nusantara Indonesia (Persero)
-* PP No.15/2025
-* Berita online terkait transformasi digital dan rencana strategis perusahaan
+- Laporan tahunan PT Rajawali Nusantara Indonesia (Persero)
+- Situs web resmi PT Rajawali Nusantara Indonesia (Persero)
+- PP No.15/2025
+- Berita online terkait transformasi digital dan rencana strategis perusahaan
 
 ---
 
-*[← Kembali ke Tier 2 Overview](index.md) · [📊 Pipeline Dashboard](../dashboard.md)*
+[← Kembali ke Tier 2](index.md) · [Pipeline Dashboard](../dashboard.md)

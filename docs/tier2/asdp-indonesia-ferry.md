@@ -1,17 +1,7 @@
-[🏠 Beranda](../index.md) › [📋 Tier 2](index.md) › ASDP Indonesia Ferry
-
----
-
 # PT ASDP Indonesia Ferry (Persero)
 
-!!! abstract "Ringkasan Cepat"
-    | | |
-    |---|---|
-    | **Priority Score** | N/A |
-    | **Tier** | Tier 2 — Follow-up |
-    | **Danantara** | ❓ Unknown |
-    | **Status LMS** | [U] |
-    | **Pendekatan** | Greenfield — karena tidak ada informasi yang tersedia tentang LMS yang sudah ada, Fayolex dapat memperkenalkan platform LMS yang inovatif dan membantu ASDP meningkatkan efisiensi dan efektifitas program pelatihan. |
+!!! tip "Ringkasan Cepat"
+    **Priority Score:** N/A | **Tier:** Tier 2 — Follow-up | **Danantara:** ❓ Unknown | **Pendekatan:** Greenfield — karena tidak ada informasi yang tersedia tentang LMS yang sudah ada, Fayolex dapat memperkenalkan platform LMS yang inovatif dan membantu ASDP meningkatkan efisiensi dan efektifitas program pelatihan.
 
 ---
 
@@ -19,13 +9,13 @@
 Fayolex memiliki kesempatan untuk membantu PT ASDP Indonesia Ferry (Persero) dalam meningkatkan pengembangan karyawan dan proses pembelajaran dengan platform LMS yang inovatif. Dengan metodologi 70:30:10, Fayolex dapat membantu ASDP meningkatkan efisiensi dan efektifitas program pelatihan.
 
 ## Account Snapshot
-| Field | Nilai | Label | Sumber |
-|---|---|---|---|
-| Karyawan | [U] | [U] | - |
-| Sektor | Transportasi | [V] | Website resmi |
-| Danantara | [U] | [U] | - |
-| LMS Status | [U] | [U] | - |
-| Direktur SDM | [U] | [U] | - |
+| Field | Data |
+|---|---|
+| **Karyawan** |  |
+| **Sektor** | Transportasi |
+| **Danantara** |  |
+| **LMS Status** |  |
+| **Direktur SDM** |  |
 
 ## SDM & Learning Landscape
 Tidak ada informasi yang tersedia tentang program SDM, training, dan pengembangan karyawan di PT ASDP Indonesia Ferry (Persero).
@@ -54,4 +44,4 @@ Greenfield — karena tidak ada informasi yang tersedia tentang LMS yang sudah a
 
 ---
 
-*[← Kembali ke Tier 2 Overview](index.md) · [📊 Pipeline Dashboard](../dashboard.md)*
+[← Kembali ke Tier 2](index.md) · [Pipeline Dashboard](../dashboard.md)

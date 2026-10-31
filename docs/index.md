@@ -1,112 +1,94 @@
-# 🚀 Fayolex BUMN Pipeline
-
-**Sales Intelligence Platform — Fayolex Learning Experience**
-
-> *Panduan komprehensif peluang LMS di BUMN Indonesia. Untuk Tim Sales internal Fayolex.*
-
+---
+title: Beranda
+hide:
+  - navigation
+  - toc
 ---
 
-## Sekilas Pipeline
+# Fayolex BUMN Pipeline
+
+Database riset sales intelligence untuk tim Fayolex Learning Experience. Setiap entry berisi profil SDM, status LMS, sinyal peluang, dan rekomendasi pendekatan.
 
 <div class="grid cards" markdown>
 
--   🏢 **Total BUMN Diriset**
+-   **48 BUMN Diriset**
 
     ---
 
-    **48 BUMN** telah dianalisis secara mendalam, mencakup profil SDM, status LMS, dan peluang masuk.
+    Database lengkap dengan analisis mendalam: SDM, LMS, trigger events, dan buying group.
 
--   🎯 **Tier 1 — Prioritas Utama**
+-   **3 Terpanas Sekarang**
 
     ---
 
-    **6 BUMN** dengan skor tertinggi dan sinyal beli terkuat. Fokus upaya penjualan di sini.
+    **Pegadaian · KAI · BSI** — momentum terbaik, window masuk terbuka sekarang.
+
+-   **6 Tier 1 — Prioritas Utama**
+
+    ---
+
+    BUMN dengan skor tertinggi dan sinyal beli terkuat. Fokuskan energi penjualan di sini.
 
     [:octicons-arrow-right-24: Lihat Tier 1](tier1/index.md)
 
--   📋 **Tier 2 — Follow-up**
+-   **42 Tier 2 — Follow-up**
 
     ---
 
-    **42 BUMN** potensial untuk pipeline jangka menengah. Pantau dan nurture.
+    Pipeline jangka menengah. Pantau tiap 3 bulan, upgrade ke Tier 1 bila ada trigger baru.
 
     [:octicons-arrow-right-24: Lihat Tier 2](tier2/index.md)
-
--   📊 **Pipeline Dashboard**
-
-    ---
-
-    Tabel lengkap semua BUMN, skor, status LMS, dan pendekatan yang direkomendasikan.
-
-    [:octicons-arrow-right-24: Buka Dashboard](dashboard.md)
 
 </div>
 
 ---
 
-## 🔥 Terpanas Sekarang
+## Terpanas Sekarang
 
 Tiga BUMN dengan momentum terbaik dan peluang konversi tertinggi:
 
-=== "🥇 Pegadaian — Score 8/10"
+=== "Pegadaian — Score 8/10"
 
-    **Greenfield LMS** — Tidak memiliki LMS corporate university.
-    
-    - 13.000+ karyawan di seluruh Indonesia
+    **Greenfield LMS** — tidak ada corporate university, platform iLeads sedang dievaluasi.
+
+    - 12.530 karyawan tetap + 21.000 outsourcing
     - Tidak masuk Danantara → procurement lebih fleksibel
-    - Transformasi digital aktif (PDS — Pegadaian Digital Services)
-    - Window masuk: sekarang
-    
+    - Direktur HC baru Juli 2025 — 100 hari pertama adalah window terbaik
+    - Window masuk: **sekarang**
+
     [:octicons-arrow-right-24: Baca Brief Lengkap](tier1/pegadaian.md)
 
-=== "🥈 KAI — Score 8/10"
+=== "KAI — Score 8/10"
 
-    **Greenfield LMS** — Belum ada corporate university terstandarisasi.
-    
-    - 26.000+ karyawan dengan kebutuhan training operasional tinggi
-    - Masuk Danantara → potensi akses standarisasi lintas BUMN
-    - Tarif mitra + jadwal → trigger safety training reguler
-    - Window masuk: sekarang
-    
+    **Greenfield LMS** — belum ada corporate university terstandarisasi.
+
+    - 29.707 karyawan, kebutuhan safety training reguler
+    - Masuk Danantara → potensi standarisasi lintas BUMN
+    - Window masuk: **sekarang**
+
     [:octicons-arrow-right-24: Baca Brief Lengkap](tier1/kereta-api-indonesia.md)
 
-=== "🥉 BSI — Score 8/10"
+=== "BSI — Score 8/10"
 
-    **Greenfield/Take-over** — Bank syariah terbesar, learning landscape masih berkembang.
-    
+    **Greenfield / Take-over** — bank syariah terbesar, learning landscape masih berkembang pasca merger.
+
     - 17.234 karyawan, lahir dari merger 2021 → butuh unified learning
     - Sertifikasi syariah compliance wajib → recurring training
-    - Masuk Danantara → potensi ekosistem BUMN Syariah
-    - Window masuk: sekarang
-    
+    - Window masuk: **sekarang**
+
     [:octicons-arrow-right-24: Baca Brief Lengkap](tier1/bsi.md)
 
 ---
 
 ## Cara Menggunakan Pipeline Ini
 
-!!! info "Panduan Singkat"
-    
-    **Tim Sales Baru?** Mulai dari halaman [Panduan Tim Sales](guide.md) — semua istilah dijelaskan di sana.
+!!! info "Panduan Singkat untuk Tim Sales Baru"
+    Mulai dari halaman [Panduan Tim Sales](guide.md) — semua istilah dan cara kerja pipeline dijelaskan di sana.
 
-1. **Cek [Pipeline Dashboard](dashboard.md)** → lihat semua BUMN, urutkan berdasarkan skor atau tier
-2. **Buka brief individual** → baca Executive Summary dan Recommended Approach
-3. **Perhatikan label [V] / [I] / [U]** → tanda kepercayaan informasi (Verified / Inferred / Unknown)
-4. **Gunakan Discovery Questions** yang sudah ada di setiap brief untuk first call
-5. **Update status** → WhatsApp ke FEN setelah ada perkembangan
-
----
-
-## Tentang Pipeline Ini
-
-Pipeline ini adalah **repositori sales intelligence** yang dibangun khusus untuk Tim Fayolex Learning Experience. Setiap brief berisi:
-
-- Profil singkat perusahaan dan ukuran SDM
-- Status LMS saat ini (apakah sudah ada atau belum)
-- Sinyal peluang dan trigger events
-- Buying group: siapa yang harus dihubungi
-- Pendekatan yang direkomendasikan
-- Discovery questions untuk first call
+1. **Cek [Pipeline Dashboard](dashboard.md)** — lihat semua 48 BUMN, urutkan berdasarkan skor
+2. **Buka brief individual** — baca Executive Summary dan Recommended Approach
+3. **Gunakan Discovery Questions** yang sudah ada di setiap brief untuk first call
+4. **Update status** — WhatsApp ke FEN setelah ada perkembangan baru
 
 !!! warning "Hanya untuk Penggunaan Internal"
     Seluruh konten ini bersifat rahasia dan hanya untuk Tim Sales Fayolex. Jangan dibagikan ke pihak eksternal.
